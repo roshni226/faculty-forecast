@@ -19,27 +19,13 @@ body {
 }
 
 .header-right img {
-    max-width: 330px;
+    max-width: 500px;
     height: auto;
     min-width: 40px;
 }
 
 
 /* Styles for screens larger than or equal to 515px */
-
-.header-section {
-    display: flex;
-    justify-content: center;
-    gap: 50px;
-}
-
-.header-left {
-    max-width: 40vw;
-}
-
-.header-right {
-    width: 300px;
-}
 
 
 /* Styles for screens less than 515px */
@@ -148,9 +134,9 @@ ul {
 
 .top-banner {
     background-color: #27374D;
-    background-image: url('./assets/asset 32.png');
+    background-image: url('./assets/faculty-forecast/static/assets/asset 32.png');
     background-size: 300px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 
 .banner-text {
@@ -159,8 +145,11 @@ ul {
     text-align: center;
 }
 
+header {
+    padding: 55px var(--padding-inline-section) 0;
+}
+
 .header-section {
-    padding-top: 50px;
     gap: 50px;
     justify-content: center;
 }
@@ -179,7 +168,7 @@ ul {
 }
 
 .header-right img {
-    width: 600px;
+    width: 900px;
 }
 
 .features {
@@ -215,4 +204,56 @@ ul {
 
 features-card img {
     width: 60px;
+}
+
+.link-column {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+}
+
+.footer-container {
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+footer {
+    padding-block: 80px;
+    background-color: #ebf2fa;
+    ;
+}
+
+.sub-footer {
+    background-color: #b9cde4;
+    padding: var(--padding-inline-section)
+}
+
+.sub-footer-container {
+    justify-content: center;
+    gap: 30px;
+}
+
+.hover-links {
+    color: var(--primary-text-color);
+}
+
+.hover-links:hover {
+    color: var(--accent-color);
+    transition: 0.2s ease-out;
+}
+
+.cta-section-container {
+    flex-direction: column;
+    gap: 25px;
+    color: white;
+}
+
+.cta-section-container p {
+    color: white;
+    margin-top: 20px;
+}
+
+.cta {
+    background-color: #183b56;
+    padding: 120px var(--padding-inline-section);
 }
