@@ -14,7 +14,7 @@ import pickle
 # In[149]:
 
 def ModelRun():
-    odf=pd.read_csv('Model Deployment\ds_data2.csv')
+    odf=pd.read_csv('faculty-forecast\Model Deployment\ds_data2.csv') 
 
 
     # In[150]:
@@ -125,7 +125,7 @@ def ModelRun():
     # In[160]:
 
 
-    ndf=pd.read_csv("Model Deployment\dataForprediction.csv")
+    ndf=pd.read_csv("faculty-forecast\Model Deployment\dataForprediction.csv")
 
 
     # In[166]:
@@ -180,7 +180,7 @@ def ModelRun():
     print(vacancies)'''
 
 
-    pickle.dump(regressor, open('Model Deployment\model.pkl','wb'))
+    pickle.dump(regressor, open('faculty-forecast\Model Deployment\model.pkl','wb'))
 
     # In[ ]:
 
