@@ -155,6 +155,9 @@ final_pred1=[]
 for i in final_pred:
     final_pred1.append(math.floor(i))
 
+y['FinalYear']=final_pred1
+y.to_csv('final.csv')
+
 
 # ### Final Predicted Years
 
