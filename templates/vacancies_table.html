@@ -1,26 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Table Example</title>
+    <title>Vacancies Table</title>
+    <style>
+        .main-container {
+            overflow-x: hidden;
+            margin: 20px;
+            height: 500px;
+            border: black;
+            border-width: 1px;
+        }
+       
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
 </head>
 <body>
-    <table>
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Age</th>
-                <th>City</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for row in data %}
-            <tr>
-                <td>{{ row['Name'] }}</td>
-                <td>{{ row['Age'] }}</td>
-                <td>{{ row['City'] }}</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+    <h1>Vacancies Table</h1>
+    <div class="main-container">
+        <div class = "horizontal-scroll">
+    {{ table|safe }}
+    </div></div>
 </body>
 </html>

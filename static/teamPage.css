@@ -10,6 +10,7 @@ body{
 }
 .row{
     border: 1px solid orange;
+    position:relative;
     display: flex;
     flex-wrap: wrap;
     padding: 2em 1em;
@@ -86,3 +87,30 @@ h1 {
         flex: 0 0 33.33%;
     }
 }
+
+.button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #704dff;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    border-radius: 5px;
+    align-items: center;
+    text-underline-position:none ;
+  }
+  
+  .home-button:hover {
+    background-color: #45a049;
+  }
+  a{
+    font-size: 16px;
+    color: #e4e4e4;
+    text-decoration: none;
+    font-weight: 500;
+    margin-right: 30px;
+}
+ 
