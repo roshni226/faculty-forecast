@@ -8,7 +8,7 @@
 :root {
     --primary-text-color: #183b56;
     --secondary-text-color: #577592;
-    --accent-color: #533CF5;
+    --accent-color: #27374D;
     --accent-color-dark: #7E7E7E;
     --padding-inline-section: 20px;
 }
@@ -147,7 +147,7 @@ ul {
 }
 
 .top-banner {
-    background-color: #533CF5;
+    background-color: #27374D;
     background-image: url('./assets/asset 32.png');
     background-size: 300px;
     margin-bottom: 100px;
