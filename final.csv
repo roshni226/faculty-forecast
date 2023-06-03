@@ -1,0 +1,1001 @@
+,Unnamed: 0,FacultyId,Name,Gender,Age,JoiningYear,Designation,AreaOfSpecialization,AppointmentType,RetirementYear
+0,0,0,Emma Scott MD,Female,54,2018,Dean,Data Science and Engineering,Regular,2030
+1,1,1,Henry Lewis,Male,47,2022,Research Professor,Robotics and Automation,Regular,2030
+2,2,2,Rachael Green,Female,60,2017,Research Professor,Electrical Engineering,Conract,2031
+3,3,3,Donna Brown MD,Female,51,2017,Lecturer,Geotechnical Engineering,Approve,2028
+4,4,4,Crystal Lambert,Male,42,2022,Senior Professor,Aerospace Engineering,Regular,2028
+5,5,5,James Thornton,Male,58,2018,Assistant professor,Electrical Engineering,Regular,2031
+6,6,6,Michael Munoz,Female,40,2023,Research Professor,Computer Engineering,Approve,2028
+7,7,7,Brittany Flores,Male,60,2018,Senior Professor,Environmental Engineering,Approve,2032
+8,8,8,Leah Harris,Male,49,2022,Associate Professor,Geotechnical Engineering,Conract,2031
+9,9,9,Erik Foster,Male,60,2018,Dean,Robotics and Automation,Conract,2032
+10,10,10,Timothy Ochoa,Female,60,2017,Dean,Computer Engineering,Regular,2031
+11,11,11,Mrs. Katherine Howard,Female,60,2018,Dean,Data Science and Engineering,Regular,2032
+12,12,12,Erik Patel,Female,60,2017,Director,Data Science and Engineering,Regular,2031
+13,13,13,Katherine Douglas,Male,47,2022,Dean,Geotechnical Engineering,Conract,2030
+14,14,14,Wendy Roy,Male,60,2017,Associate Professor,Civil Engineering,Approve,2031
+15,15,15,Anthony Bennett,Male,60,2017,Dean,Electrical Engineering,Approve,2031
+16,16,16,Douglas Moore,Female,56,2016,Director,Aerospace Engineering,Regular,2029
+17,17,17,Katrina Morse,Male,45,2021,Assistant professor,Electrical Engineering,Regular,2029
+18,18,18,Jean Maldonado,Male,43,2023,Dean,Software Engineering,Approve,2030
+19,19,19,Terri Ochoa,Female,43,2022,Senior Professor,Geotechnical Engineering,Conract,2029
+20,20,20,Peter Andersen,Female,56,2018,Director,Environmental Engineering,Conract,2031
+21,21,21,Diana Hughes,Female,49,2023,Senior Professor,Data Science and Engineering,Approve,2032
+22,22,22,Crystal Wells,Male,58,2017,Assistant professor,Geotechnical Engineering,Conract,2030
+23,23,23,Alexander Russell,Male,31,2023,Lecturer,Computer Engineering,Regular,2025
+24,24,24,Paul Hall,Male,43,2022,Senior Professor,Mechanical Engineering,Approve,2029
+25,25,25,Amy Anderson,Male,55,2017,Assistant professor,Electrical Engineering,Conract,2029
+26,26,26,Brittany Mcdaniel,Female,48,2021,Lecturer,Mechanical Engineering,Approve,2030
+27,27,27,William Booth,Female,60,2018,Director,Software Engineering,Regular,2032
+28,28,28,Joseph Chen,Female,56,2017,Director,Electrical Engineering,Approve,2030
+29,29,29,John Davis,Male,60,2017,Dean,Chemical Engineering,Approve,2031
+30,30,30,Melissa Allen,Female,47,2022,Associate Professor,Aerospace Engineering,Approve,2030
+31,31,31,Sophia Martin,Male,53,2018,Assistant professor,Aerospace Engineering,Approve,2029
+32,32,32,Julie Ward,Female,60,2018,Dean,Software Engineering,Approve,2032
+33,33,33,Nicholas Carrillo,Female,50,2023,Director,Robotics and Automation,Approve,2032
+34,34,34,Thomas Hickman,Female,34,2021,Dean,Mechanical Engineering,Regular,2025
+35,35,35,Yvonne Preston,Female,60,2018,Lecturer,Electrical Engineering,Regular,2032
+36,36,36,Daniel Griffin,Male,40,2023,Assistant professor,Data Science and Engineering,Approve,2028
+37,37,37,Jacqueline Dominguez,Female,59,2016,Assistant professor,Chemical Engineering,Conract,2030
+38,38,38,Stephanie Newman,Male,41,2023,Associate Professor,Electrical Engineering,Approve,2029
+39,39,39,Timothy Rodriguez,Female,40,2021,Director,Chemical Engineering,Regular,2027
+40,40,40,Tonya Holmes,Female,35,2021,Director,Civil Engineering,Approve,2025
+41,41,41,Michele Massey,Male,60,2017,Associate Professor,Aerospace Engineering,Approve,2031
+42,42,42,Jamie Manning,Female,52,2016,Associate Professor,Mechanical Engineering,Regular,2028
+43,43,43,Ronald Hampton,Male,42,2021,Assistant professor,Software Engineering,Regular,2028
+44,44,44,Carolyn Lane,Male,54,2017,Senior Professor,Environmental Engineering,Conract,2029
+45,45,45,Christine Paul,Male,60,2017,Dean,Software Engineering,Regular,2031
+46,46,46,Kristen Martin,Male,60,2016,Lecturer,Mechanical Engineering,Regular,2030
+47,47,47,Eileen Hernandez,Female,48,2022,Dean,Software Engineering,Approve,2031
+48,48,48,Heather Owens,Female,38,2023,Associate Professor,Chemical Engineering,Approve,2028
+49,49,49,Brian Tyler,Male,57,2017,Director,Geotechnical Engineering,Conract,2030
+50,50,50,Michael Faulkner,Male,51,2016,Senior Professor,Software Engineering,Approve,2027
+51,51,51,Stephanie Riley,Male,50,2022,Dean,Civil Engineering,Conract,2031
+52,52,52,Gabriel Murray,Male,54,2017,Assistant professor,Geotechnical Engineering,Regular,2029
+53,53,53,Bruce Robertson,Male,45,2022,Senior Professor,Electrical Engineering,Conract,2030
+54,54,54,John Jordan,Male,50,2021,Senior Professor,Computer Engineering,Conract,2031
+55,55,55,Lisa Watts,Female,44,2023,Assistant professor,Environmental Engineering,Regular,2030
+56,56,56,Christopher Garcia,Female,45,2022,Dean,Software Engineering,Regular,2030
+57,57,57,Harold Gomez,Female,46,2023,Director,Data Science and Engineering,Approve,2031
+58,58,58,Kenneth Harvey,Female,32,2021,Director,Computer Engineering,Regular,2024
+59,59,59,Charlotte Roth,Male,38,2023,Assistant professor,Data Science and Engineering,Conract,2028
+60,60,60,Mike Lopez,Female,46,2023,Lecturer,Geotechnical Engineering,Regular,2031
+61,61,61,Allison Hill,Female,60,2016,Associate Professor,Computer Engineering,Conract,2030
+62,62,62,Casey Lopez,Female,50,2022,Associate Professor,Electrical Engineering,Regular,2031
+63,63,63,Elijah Wilson,Female,59,2016,Lecturer,Civil Engineering,Approve,2030
+64,64,64,Kyle Franco,Female,40,2022,Director,Civil Engineering,Approve,2028
+65,65,65,Brian Conrad,Male,50,2023,Lecturer,Data Science and Engineering,Regular,2032
+66,66,66,Catherine Lopez,Male,60,2016,Research Professor,Software Engineering,Regular,2030
+67,67,67,Dr. Victor Jones,Male,49,2021,Research Professor,Civil Engineering,Regular,2030
+68,68,68,Sara Stanton,Female,60,2016,Research Professor,Software Engineering,Regular,2030
+69,69,69,Kara Harris,Male,42,2021,Research Professor,Software Engineering,Conract,2028
+70,70,70,Melissa Dawson,Male,50,2023,Research Professor,Computer Engineering,Regular,2032
+71,71,71,Shane Hale,Male,45,2023,Director,Chemical Engineering,Regular,2030
+72,72,72,Jennifer Martinez,Female,53,2016,Associate Professor,Geotechnical Engineering,Regular,2028
+73,73,73,Diane Morales,Male,59,2016,Associate Professor,Electrical Engineering,Conract,2030
+74,74,74,Kristin Weeks,Male,52,2017,Senior Professor,Geotechnical Engineering,Approve,2028
+75,75,75,Tina Wagner,Male,50,2023,Senior Professor,Software Engineering,Regular,2032
+76,76,76,Mary Gordon,Female,33,2022,Director,Aerospace Engineering,Approve,2025
+77,77,77,Mrs. Kathryn Collins,Female,51,2016,Associate Professor,Software Engineering,Approve,2027
+78,78,78,Deborah Freeman,Female,55,2016,Dean,Computer Engineering,Regular,2029
+79,79,79,Jacqueline Deleon,Female,44,2022,Research Professor,Civil Engineering,Approve,2029
+80,80,80,Nicole Young,Male,55,2018,Associate Professor,Aerospace Engineering,Regular,2030
+81,81,81,Toni Archer,Male,34,2023,Associate Professor,Chemical Engineering,Regular,2026
+82,82,82,Jacob Lloyd,Female,52,2018,Lecturer,Robotics and Automation,Approve,2029
+83,83,83,Ann Martin,Male,43,2022,Director,Mechanical Engineering,Conract,2029
+84,84,84,Christina Johnson,Male,57,2018,Associate Professor,Geotechnical Engineering,Approve,2031
+85,85,85,Christopher Ruiz,Male,47,2022,Senior Professor,Data Science and Engineering,Regular,2030
+86,86,86,Frank Garcia,Female,60,2018,Research Professor,Computer Engineering,Regular,2032
+87,87,87,Steven Davenport,Male,56,2018,Research Professor,Chemical Engineering,Regular,2030
+88,88,88,Steven Barajas,Male,49,2021,Director,Aerospace Engineering,Regular,2030
+89,89,89,Chelsea Mcmahon,Male,58,2017,Associate Professor,Chemical Engineering,Conract,2030
+90,90,90,Jeffrey Chambers,Male,34,2021,Associate Professor,Chemical Engineering,Approve,2025
+91,91,91,Samantha Wilkinson,Male,45,2021,Lecturer,Geotechnical Engineering,Conract,2029
+92,92,92,Jacqueline West,Female,56,2016,Research Professor,Environmental Engineering,Conract,2029
+93,93,93,Thomas Higgins,Male,39,2021,Associate Professor,Chemical Engineering,Conract,2027
+94,94,94,David Buck,Female,38,2023,Dean,Data Science and Engineering,Conract,2028
+95,95,95,Brandon Martin,Female,43,2023,Assistant professor,Robotics and Automation,Conract,2030
+96,96,96,John Reynolds,Female,49,2021,Associate Professor,Civil Engineering,Conract,2030
+97,97,97,Mary Stephens,Female,60,2018,Assistant professor,Chemical Engineering,Regular,2032
+98,98,98,Jason Scott,Female,60,2017,Associate Professor,Computer Engineering,Regular,2031
+99,99,99,Cynthia Myers,Female,37,2023,Lecturer,Computer Engineering,Regular,2027
+100,100,100,Lisa Wilson,Female,42,2023,Director,Chemical Engineering,Conract,2029
+101,101,101,Krystal Miles,Female,57,2018,Director,Software Engineering,Regular,2031
+102,102,102,Glenda Chavez,Male,55,2017,Research Professor,Software Engineering,Regular,2029
+103,103,103,Brandon Rocha,Female,50,2021,Dean,Mechanical Engineering,Conract,2031
+104,104,104,Rodney Costa,Female,50,2023,Dean,Geotechnical Engineering,Approve,2032
+105,105,105,Alexander Henry,Male,55,2016,Associate Professor,Data Science and Engineering,Regular,2029
+106,106,106,William Hill,Male,60,2018,Lecturer,Software Engineering,Regular,2032
+107,107,107,Jordan Jones,Male,51,2018,Research Professor,Data Science and Engineering,Regular,2029
+108,108,108,Troy Turner,Male,60,2017,Senior Professor,Computer Engineering,Conract,2031
+109,109,109,Susan Warren,Female,60,2017,Senior Professor,Civil Engineering,Conract,2031
+110,110,110,Charles Sanchez,Male,45,2022,Lecturer,Aerospace Engineering,Approve,2030
+111,111,111,Nathan Wilson,Male,60,2018,Lecturer,Environmental Engineering,Approve,2032
+112,112,112,Holly Brooks,Male,47,2021,Associate Professor,Environmental Engineering,Approve,2030
+113,113,113,David Woods,Male,48,2023,Director,Software Engineering,Approve,2031
+114,114,114,Charles Garcia,Male,59,2018,Research Professor,Data Science and Engineering,Conract,2032
+115,115,115,Lauren Flores,Male,58,2018,Dean,Mechanical Engineering,Approve,2031
+116,116,116,Taylor Gonzalez,Male,30,2022,Lecturer,Computer Engineering,Approve,2024
+117,117,117,Bryan Delacruz,Male,51,2018,Senior Professor,Civil Engineering,Approve,2029
+118,118,118,Sharon Castillo,Female,59,2016,Associate Professor,Computer Engineering,Approve,2030
+119,119,119,Amy Martinez,Female,30,2022,Dean,Data Science and Engineering,Conract,2024
+120,120,120,Jeremy Ford,Male,60,2017,Director,Mechanical Engineering,Approve,2031
+121,121,121,Joseph Nelson,Male,56,2017,Senior Professor,Mechanical Engineering,Regular,2030
+122,122,122,Jaime Wilson,Female,60,2016,Lecturer,Electrical Engineering,Approve,2030
+123,123,123,Jonathan Robinson,Male,40,2021,Research Professor,Computer Engineering,Approve,2027
+124,124,124,Valerie Jacobs,Male,58,2017,Senior Professor,Geotechnical Engineering,Approve,2030
+125,125,125,Kara Hawkins,Female,56,2016,Senior Professor,Chemical Engineering,Conract,2029
+126,126,126,Aaron Yu,Female,47,2022,Senior Professor,Civil Engineering,Regular,2030
+127,127,127,Tiffany Malone,Male,38,2023,Dean,Civil Engineering,Approve,2028
+128,128,128,Aaron Avery,Male,54,2018,Research Professor,Chemical Engineering,Approve,2030
+129,129,129,Christopher Brown,Male,60,2016,Dean,Aerospace Engineering,Regular,2030
+130,130,130,Kimberly White,Male,49,2021,Research Professor,Geotechnical Engineering,Conract,2030
+131,131,131,Mrs. Angela Kelley,Female,56,2018,Director,Mechanical Engineering,Conract,2031
+132,132,132,Casey Melton,Male,31,2022,Director,Mechanical Engineering,Approve,2024
+133,133,133,Teresa Scott,Male,57,2018,Dean,Mechanical Engineering,Approve,2031
+134,134,134,Sabrina King,Male,46,2021,Director,Mechanical Engineering,Conract,2029
+135,135,135,Peter Conner,Female,50,2022,Research Professor,Robotics and Automation,Approve,2031
+136,136,136,Rhonda Gilbert,Female,41,2021,Senior Professor,Civil Engineering,Conract,2027
+137,137,137,Robert Peterson,Male,60,2018,Lecturer,Civil Engineering,Conract,2032
+138,138,138,Joseph Chan,Female,44,2022,Research Professor,Civil Engineering,Approve,2029
+139,139,139,Sean Gordon,Male,49,2022,Dean,Software Engineering,Approve,2031
+140,140,140,Connie Webster,Female,57,2016,Assistant professor,Computer Engineering,Conract,2029
+141,141,141,Charles Jackson,Female,51,2018,Associate Professor,Software Engineering,Conract,2029
+142,142,142,Melissa Villa,Female,47,2023,Assistant professor,Geotechnical Engineering,Conract,2031
+143,143,143,Eric Conway,Female,58,2016,Dean,Software Engineering,Approve,2030
+144,144,144,Dean Smith,Female,37,2021,Director,Electrical Engineering,Regular,2026
+145,145,145,James Schmidt,Female,55,2017,Assistant professor,Environmental Engineering,Conract,2029
+146,146,146,Francisco Sims,Female,60,2017,Lecturer,Aerospace Engineering,Conract,2031
+147,147,147,Cathy Fernandez,Female,56,2018,Director,Chemical Engineering,Approve,2030
+148,148,148,Whitney Michael,Male,44,2022,Senior Professor,Software Engineering,Conract,2029
+149,149,149,Michelle Davis,Male,48,2021,Research Professor,Geotechnical Engineering,Regular,2030
+150,150,150,William Smith,Male,35,2021,Assistant professor,Robotics and Automation,Conract,2025
+151,151,151,Dustin Miller,Male,52,2017,Lecturer,Mechanical Engineering,Regular,2028
+152,152,152,Ryan Baker,Female,60,2016,Research Professor,Robotics and Automation,Conract,2030
+153,153,153,Monique Fleming,Male,40,2022,Dean,Robotics and Automation,Regular,2028
+154,154,154,Ryan Horn,Male,52,2016,Director,Geotechnical Engineering,Conract,2028
+155,155,155,Sharon Mcgee,Female,48,2022,Associate Professor,Robotics and Automation,Approve,2031
+156,156,156,Michelle Mcfarland,Male,60,2017,Associate Professor,Robotics and Automation,Conract,2031
+157,157,157,Daniel Shepard,Male,60,2016,Assistant professor,Chemical Engineering,Regular,2030
+158,158,158,David Roberts,Male,60,2018,Dean,Chemical Engineering,Approve,2032
+159,159,159,Austin Mcclain,Female,60,2017,Director,Chemical Engineering,Regular,2031
+160,160,160,Natalie Lane,Male,51,2018,Lecturer,Computer Engineering,Approve,2029
+161,161,161,Kelly Elliott,Female,40,2021,Senior Professor,Mechanical Engineering,Approve,2027
+162,162,162,Daniel Fields,Female,60,2016,Senior Professor,Environmental Engineering,Approve,2030
+163,163,163,Diane Burnett,Female,55,2017,Lecturer,Electrical Engineering,Approve,2029
+164,164,164,Gregory Pierce,Female,42,2021,Lecturer,Data Science and Engineering,Approve,2028
+165,165,165,Judith Clark,Male,46,2022,Senior Professor,Aerospace Engineering,Regular,2030
+166,166,166,Thomas Terry,Male,53,2017,Research Professor,Data Science and Engineering,Approve,2029
+167,167,167,Jay Brown,Female,37,2022,Lecturer,Environmental Engineering,Approve,2027
+168,168,168,Michael Myers,Female,56,2016,Lecturer,Electrical Engineering,Approve,2029
+169,169,169,Shelby Meyer,Male,49,2023,Senior Professor,Electrical Engineering,Conract,2032
+170,170,170,Mr. Michael Bell,Male,50,2023,Associate Professor,Environmental Engineering,Approve,2032
+171,171,171,Anthony Mcbride,Female,38,2021,Senior Professor,Electrical Engineering,Approve,2026
+172,172,172,Anita Torres,Male,57,2018,Dean,Geotechnical Engineering,Approve,2031
+173,173,173,Brandon Davies,Male,42,2022,Dean,Software Engineering,Approve,2028
+174,174,174,Frank Thompson,Female,46,2021,Lecturer,Geotechnical Engineering,Approve,2029
+175,175,175,David Schroeder,Female,54,2016,Lecturer,Environmental Engineering,Regular,2028
+176,176,176,Elizabeth Barber,Female,46,2022,Senior Professor,Chemical Engineering,Regular,2030
+177,177,177,Alexander Wolfe,Female,51,2016,Director,Data Science and Engineering,Regular,2027
+178,178,178,Amanda Arnold,Female,43,2023,Associate Professor,Computer Engineering,Conract,2030
+179,179,179,Patrick Reese,Female,50,2022,Lecturer,Robotics and Automation,Approve,2031
+180,180,180,Breanna Love,Male,51,2018,Senior Professor,Data Science and Engineering,Conract,2029
+181,181,181,Megan Warner,Male,54,2018,Dean,Software Engineering,Regular,2030
+182,182,182,Eric Brewer Jr.,Female,48,2022,Lecturer,Data Science and Engineering,Approve,2031
+183,183,183,Erin Wilson,Male,40,2023,Research Professor,Data Science and Engineering,Regular,2028
+184,184,184,April Mckee,Female,40,2021,Research Professor,Mechanical Engineering,Regular,2027
+185,185,185,Christina Jones,Male,45,2022,Research Professor,Environmental Engineering,Regular,2030
+186,186,186,Amanda Stewart,Female,59,2018,Director,Data Science and Engineering,Conract,2032
+187,187,187,Natalie Coleman,Female,60,2018,Research Professor,Geotechnical Engineering,Conract,2032
+188,188,188,Eric Barber,Female,47,2023,Senior Professor,Civil Engineering,Conract,2031
+189,189,189,Felicia Richardson,Female,60,2016,Associate Professor,Data Science and Engineering,Regular,2030
+190,190,190,Jason Mckinney,Female,60,2016,Assistant professor,Data Science and Engineering,Regular,2030
+191,191,191,Tracy Robinson,Male,33,2023,Associate Professor,Electrical Engineering,Approve,2026
+192,192,192,Keith Davis,Male,53,2016,Lecturer,Aerospace Engineering,Conract,2028
+193,193,193,Miss Tiffany Edwards,Female,60,2018,Director,Data Science and Engineering,Regular,2032
+194,194,194,Jeffrey Russell,Male,37,2023,Dean,Computer Engineering,Regular,2027
+195,195,195,Carlos Park,Female,57,2018,Senior Professor,Geotechnical Engineering,Conract,2031
+196,196,196,Judy Hall,Male,42,2021,Research Professor,Civil Engineering,Conract,2028
+197,197,197,Cassandra Yu,Male,60,2017,Director,Chemical Engineering,Regular,2031
+198,198,198,Angela Gregory,Male,56,2017,Lecturer,Mechanical Engineering,Approve,2030
+199,199,199,Joshua Anderson,Male,60,2017,Senior Professor,Robotics and Automation,Regular,2031
+200,200,200,Jacob Sanchez,Female,60,2018,Director,Mechanical Engineering,Approve,2032
+201,201,201,Nicole Thomas,Female,59,2016,Lecturer,Aerospace Engineering,Regular,2030
+202,202,202,Jeffrey Wilson,Female,50,2023,Dean,Data Science and Engineering,Conract,2032
+203,203,203,Leonard Horton,Male,52,2016,Senior Professor,Geotechnical Engineering,Regular,2028
+204,204,204,Gregory Burton,Male,60,2018,Dean,Environmental Engineering,Approve,2032
+205,205,205,David Thomas,Male,58,2016,Lecturer,Mechanical Engineering,Approve,2030
+206,206,206,Roy Barker,Male,31,2023,Director,Environmental Engineering,Conract,2025
+207,207,207,Angela Martinez,Male,53,2018,Research Professor,Environmental Engineering,Regular,2029
+208,208,208,Allison Camacho,Female,48,2022,Senior Professor,Chemical Engineering,Approve,2031
+209,209,209,Gwendolyn Jensen,Male,30,2023,Senior Professor,Electrical Engineering,Approve,2025
+210,210,210,Isaiah Cunningham,Male,60,2017,Senior Professor,Robotics and Automation,Approve,2031
+211,211,211,Mark Owens Jr.,Female,50,2022,Director,Environmental Engineering,Conract,2031
+212,212,212,Marcia Wilkerson,Male,50,2023,Dean,Computer Engineering,Regular,2032
+213,213,213,Calvin Collins,Female,59,2017,Research Professor,Computer Engineering,Approve,2031
+214,214,214,Johnny Hall,Female,30,2021,Associate Professor,Aerospace Engineering,Regular,2023
+215,215,215,Jeremy Romero,Male,30,2023,Research Professor,Aerospace Engineering,Conract,2025
+216,216,216,Joanne Fisher,Female,57,2018,Senior Professor,Aerospace Engineering,Regular,2031
+217,217,217,Karen Davies,Female,51,2016,Director,Mechanical Engineering,Regular,2027
+218,218,218,Robert Allen,Male,60,2016,Dean,Aerospace Engineering,Regular,2030
+219,219,219,Christopher Roberts,Female,51,2018,Director,Data Science and Engineering,Approve,2029
+220,220,220,Shelley Mcgee,Female,43,2021,Dean,Software Engineering,Approve,2028
+221,221,221,Michael Alexander MD,Male,57,2018,Senior Professor,Electrical Engineering,Approve,2031
+222,222,222,Barbara Gonzalez,Male,55,2016,Dean,Mechanical Engineering,Approve,2029
+223,223,223,Craig Price,Female,53,2017,Dean,Geotechnical Engineering,Conract,2029
+224,224,224,Marissa Green,Male,58,2017,Senior Professor,Civil Engineering,Regular,2030
+225,225,225,Jason Edwards,Female,57,2018,Director,Robotics and Automation,Regular,2031
+226,226,226,Monica Green DDS,Female,47,2021,Lecturer,Civil Engineering,Conract,2030
+227,227,227,Mallory Berger,Female,46,2023,Lecturer,Aerospace Engineering,Conract,2031
+228,228,228,William Phillips,Female,55,2016,Assistant professor,Mechanical Engineering,Conract,2029
+229,229,229,Janet Rivera,Female,45,2022,Director,Mechanical Engineering,Regular,2030
+230,230,230,Vincent Morgan,Female,51,2018,Lecturer,Robotics and Automation,Approve,2029
+231,231,231,Jonathan Gallagher,Male,60,2017,Assistant professor,Data Science and Engineering,Approve,2031
+232,232,232,Daniel Mendoza,Male,48,2021,Associate Professor,Computer Engineering,Regular,2030
+233,233,233,Monica Wilson,Female,45,2023,Lecturer,Chemical Engineering,Conract,2030
+234,234,234,Cindy Curtis,Male,53,2018,Assistant professor,Robotics and Automation,Regular,2029
+235,235,235,Ashley Sellers,Male,56,2017,Senior Professor,Mechanical Engineering,Regular,2030
+236,236,236,Ashley Gomez,Male,60,2016,Lecturer,Geotechnical Engineering,Conract,2030
+237,237,237,Rebecca Chapman,Female,60,2017,Lecturer,Environmental Engineering,Approve,2031
+238,238,238,Joseph Nguyen,Female,51,2017,Director,Software Engineering,Conract,2028
+239,239,239,Sarah Brock,Female,60,2017,Senior Professor,Geotechnical Engineering,Approve,2031
+240,240,240,Maria Rodgers,Male,60,2017,Senior Professor,Computer Engineering,Conract,2031
+241,241,241,Holly Smith,Female,32,2021,Senior Professor,Environmental Engineering,Regular,2024
+242,242,242,Joshua Solis,Female,54,2018,Assistant professor,Computer Engineering,Regular,2030
+243,243,243,Joseph Ross,Female,60,2016,Senior Professor,Environmental Engineering,Approve,2030
+244,244,244,Teresa Larson,Female,58,2018,Director,Chemical Engineering,Regular,2031
+245,245,245,Paige Williams,Female,53,2017,Lecturer,Geotechnical Engineering,Approve,2029
+246,246,246,Samuel Greene,Male,45,2023,Director,Data Science and Engineering,Approve,2030
+247,247,247,David Gross,Female,57,2017,Research Professor,Mechanical Engineering,Approve,2030
+248,248,248,Shawn Gonzalez,Male,46,2021,Research Professor,Robotics and Automation,Conract,2029
+249,249,249,Monica Reed,Female,55,2017,Senior Professor,Computer Engineering,Approve,2029
+250,250,250,Kristi Erickson,Male,54,2018,Director,Environmental Engineering,Conract,2030
+251,251,251,Christopher Wang,Female,36,2021,Assistant professor,Computer Engineering,Approve,2026
+252,252,252,Luis Garner,Male,58,2017,Research Professor,Software Engineering,Conract,2030
+253,253,253,Amanda Johnson,Male,60,2016,Assistant professor,Robotics and Automation,Conract,2030
+254,254,254,Ashley Melton,Female,49,2021,Senior Professor,Robotics and Automation,Regular,2030
+255,255,255,Nathan Butler,Female,60,2016,Associate Professor,Electrical Engineering,Conract,2030
+256,256,256,Emily Shaw,Male,44,2021,Director,Computer Engineering,Regular,2028
+257,257,257,Jonathan Barnes,Male,60,2016,Dean,Geotechnical Engineering,Approve,2030
+258,258,258,Laura Smith,Female,48,2023,Assistant professor,Environmental Engineering,Regular,2031
+259,259,259,Micheal Garcia,Female,60,2018,Senior Professor,Software Engineering,Approve,2032
+260,260,260,Victoria Ali,Male,60,2017,Assistant professor,Geotechnical Engineering,Conract,2031
+261,261,261,Jenna Perry DVM,Female,52,2017,Dean,Aerospace Engineering,Conract,2028
+262,262,262,Richard Johnson,Male,38,2022,Assistant professor,Environmental Engineering,Conract,2027
+263,263,263,Cynthia Gallagher,Female,48,2021,Associate Professor,Software Engineering,Regular,2030
+264,264,264,Joshua Cooper,Female,60,2018,Senior Professor,Mechanical Engineering,Conract,2032
+265,265,265,Elizabeth Shelton,Female,56,2016,Dean,Mechanical Engineering,Regular,2029
+266,266,266,Joshua Hall,Female,51,2018,Associate Professor,Environmental Engineering,Approve,2029
+267,267,267,Joseph Watkins,Female,60,2016,Associate Professor,Electrical Engineering,Conract,2030
+268,268,268,Marcus Jackson,Female,56,2016,Associate Professor,Data Science and Engineering,Conract,2029
+269,269,269,Shelly Smith,Male,52,2018,Dean,Chemical Engineering,Regular,2029
+270,270,270,Scott Flores,Male,48,2021,Lecturer,Environmental Engineering,Approve,2030
+271,271,271,Emily Payne,Male,60,2018,Lecturer,Computer Engineering,Regular,2032
+272,272,272,Emily Miles,Female,42,2022,Lecturer,Robotics and Automation,Conract,2028
+273,273,273,Jenny Warner,Female,60,2016,Assistant professor,Environmental Engineering,Approve,2030
+274,274,274,Aaron Weaver,Male,51,2018,Director,Geotechnical Engineering,Approve,2029
+275,275,275,Dr. Craig Baldwin DDS,Female,49,2022,Senior Professor,Software Engineering,Conract,2031
+276,276,276,Jasmine Peters,Female,53,2018,Director,Robotics and Automation,Conract,2029
+277,277,277,Carrie Green,Female,44,2023,Dean,Aerospace Engineering,Conract,2030
+278,278,278,Timothy Williams,Male,60,2016,Director,Computer Engineering,Approve,2030
+279,279,279,Lisa Hartman,Female,58,2016,Associate Professor,Chemical Engineering,Regular,2030
+280,280,280,Natalie Ibarra,Male,60,2018,Director,Electrical Engineering,Regular,2032
+281,281,281,Donna Daniels,Male,48,2022,Associate Professor,Geotechnical Engineering,Regular,2031
+282,282,282,Leslie Phillips,Male,54,2017,Associate Professor,Aerospace Engineering,Regular,2029
+283,283,283,Vincent Ortiz,Male,39,2022,Lecturer,Computer Engineering,Regular,2027
+284,284,284,Anthony Fleming,Female,53,2017,Associate Professor,Data Science and Engineering,Conract,2029
+285,285,285,Ms. Debra Wilkerson,Male,51,2016,Director,Data Science and Engineering,Conract,2027
+286,286,286,Steven Williams,Female,60,2018,Assistant professor,Software Engineering,Approve,2032
+287,287,287,Theresa Bradford,Female,60,2016,Associate Professor,Aerospace Engineering,Conract,2030
+288,288,288,Linda Wheeler,Male,30,2021,Research Professor,Environmental Engineering,Approve,2023
+289,289,289,Curtis Cook,Female,53,2017,Assistant professor,Robotics and Automation,Regular,2029
+290,290,290,Sara Tran,Female,60,2017,Associate Professor,Robotics and Automation,Regular,2031
+291,291,291,Brian Owens,Male,34,2022,Assistant professor,Computer Engineering,Approve,2026
+292,292,292,Kelly Cook,Female,30,2023,Research Professor,Software Engineering,Approve,2025
+293,293,293,Whitney Perez,Female,53,2017,Lecturer,Robotics and Automation,Conract,2029
+294,294,294,Brian Grant,Female,47,2021,Senior Professor,Robotics and Automation,Conract,2030
+295,295,295,Patrick Weaver,Female,52,2018,Associate Professor,Chemical Engineering,Regular,2029
+296,296,296,Tina Williams,Female,53,2016,Lecturer,Computer Engineering,Approve,2028
+297,297,297,Tyler Berry,Female,54,2016,Associate Professor,Electrical Engineering,Conract,2028
+298,298,298,Jennifer Hampton,Male,51,2016,Research Professor,Computer Engineering,Conract,2027
+299,299,299,Sara Howard,Male,34,2022,Director,Robotics and Automation,Regular,2026
+300,300,300,Ryan Brooks,Male,54,2017,Assistant professor,Robotics and Automation,Conract,2029
+301,301,301,Sarah Ball,Male,60,2018,Associate Professor,Chemical Engineering,Regular,2032
+302,302,302,Jesse Brooks,Female,60,2017,Lecturer,Chemical Engineering,Regular,2031
+303,303,303,Nicole Jackson,Female,60,2018,Dean,Electrical Engineering,Conract,2032
+304,304,304,Patricia Jones,Male,60,2017,Lecturer,Software Engineering,Conract,2031
+305,305,305,Joseph Martinez,Male,36,2023,Associate Professor,Data Science and Engineering,Conract,2027
+306,306,306,Marc Marks,Male,60,2017,Senior Professor,Computer Engineering,Regular,2031
+307,307,307,Michael Fox,Female,60,2018,Research Professor,Electrical Engineering,Conract,2032
+308,308,308,Brenda Rocha,Male,53,2016,Assistant professor,Chemical Engineering,Approve,2028
+309,309,309,Hannah Mitchell,Female,58,2017,Dean,Aerospace Engineering,Regular,2030
+310,310,310,Howard Farrell,Male,55,2018,Assistant professor,Mechanical Engineering,Conract,2030
+311,311,311,Kyle Hubbard,Female,35,2021,Assistant professor,Environmental Engineering,Regular,2025
+312,312,312,April Davidson,Male,43,2023,Dean,Civil Engineering,Approve,2030
+313,313,313,Joshua Miller,Female,60,2017,Director,Civil Engineering,Approve,2031
+314,314,314,Jessica Smith,Female,49,2022,Lecturer,Geotechnical Engineering,Approve,2031
+315,315,315,Justin Allen,Female,60,2016,Senior Professor,Mechanical Engineering,Approve,2030
+316,316,316,Darrell Reynolds,Male,59,2017,Lecturer,Computer Engineering,Regular,2031
+317,317,317,Sherri Schneider,Male,33,2023,Director,Computer Engineering,Approve,2026
+318,318,318,Amy Perez,Female,60,2017,Assistant professor,Software Engineering,Conract,2031
+319,319,319,Deborah Lyons,Male,46,2023,Dean,Electrical Engineering,Conract,2031
+320,320,320,Rodney Brown,Female,39,2022,Senior Professor,Chemical Engineering,Regular,2027
+321,321,321,Katherine Franco,Female,57,2016,Lecturer,Mechanical Engineering,Conract,2029
+322,322,322,Amy Zimmerman,Male,60,2016,Director,Robotics and Automation,Regular,2030
+323,323,323,Carrie Castro,Female,41,2023,Associate Professor,Geotechnical Engineering,Conract,2029
+324,324,324,Nicole Hicks,Male,46,2021,Lecturer,Geotechnical Engineering,Approve,2029
+325,325,325,Deborah Morgan,Female,41,2023,Assistant professor,Geotechnical Engineering,Regular,2029
+326,326,326,Rebecca Barnes,Male,46,2022,Research Professor,Chemical Engineering,Approve,2030
+327,327,327,Sarah Brown,Female,56,2018,Research Professor,Robotics and Automation,Regular,2031
+328,328,328,John Fischer,Male,44,2023,Senior Professor,Computer Engineering,Conract,2030
+329,329,329,Dr. Marie King MD,Female,52,2016,Lecturer,Chemical Engineering,Regular,2028
+330,330,330,John Acevedo,Female,55,2017,Director,Aerospace Engineering,Approve,2029
+331,331,331,Krystal Allen,Male,43,2022,Lecturer,Environmental Engineering,Approve,2029
+332,332,332,Danny Ali,Female,60,2018,Research Professor,Software Engineering,Regular,2032
+333,333,333,Calvin Jarvis,Female,51,2017,Lecturer,Robotics and Automation,Approve,2028
+334,334,334,Daniel Ross,Female,34,2021,Associate Professor,Robotics and Automation,Conract,2025
+335,335,335,Phillip Wright,Male,55,2017,Senior Professor,Mechanical Engineering,Regular,2029
+336,336,336,Regina Dunlap,Male,58,2017,Director,Electrical Engineering,Regular,2030
+337,337,337,Joseph Cooper,Male,60,2018,Associate Professor,Mechanical Engineering,Conract,2032
+338,338,338,Nicholas Small,Female,60,2016,Assistant professor,Geotechnical Engineering,Regular,2030
+339,339,339,William Bernard,Female,60,2016,Associate Professor,Environmental Engineering,Approve,2030
+340,340,340,Kelly Morgan,Male,56,2018,Associate Professor,Geotechnical Engineering,Regular,2031
+341,341,341,Ariel Gibbs,Male,50,2023,Dean,Aerospace Engineering,Regular,2032
+342,342,342,Deborah Gutierrez,Female,56,2018,Senior Professor,Civil Engineering,Approve,2030
+343,343,343,Eric Fitzgerald,Male,38,2021,Senior Professor,Geotechnical Engineering,Conract,2026
+344,344,344,Barry Dean,Female,46,2023,Lecturer,Mechanical Engineering,Conract,2031
+345,345,345,John Bishop,Female,60,2018,Director,Geotechnical Engineering,Conract,2032
+346,346,346,Brad Torres,Male,58,2016,Associate Professor,Software Engineering,Approve,2030
+347,347,347,Edward Davis,Male,60,2016,Assistant professor,Robotics and Automation,Regular,2030
+348,348,348,Francisco Potter,Female,60,2016,Lecturer,Electrical Engineering,Approve,2030
+349,349,349,Tiffany Baker,Female,60,2018,Lecturer,Electrical Engineering,Approve,2032
+350,350,350,Lauren Maldonado,Male,49,2022,Assistant professor,Mechanical Engineering,Regular,2031
+351,351,351,Travis Montes,Male,41,2022,Lecturer,Data Science and Engineering,Conract,2028
+352,352,352,Carl Harrison,Male,50,2022,Dean,Civil Engineering,Conract,2031
+353,353,353,Taylor Johnson,Female,59,2016,Senior Professor,Chemical Engineering,Approve,2030
+354,354,354,Logan Jones,Female,43,2023,Lecturer,Data Science and Engineering,Conract,2030
+355,355,355,Jason Watson,Male,60,2018,Associate Professor,Chemical Engineering,Regular,2032
+356,356,356,Mike Glenn,Female,47,2021,Director,Civil Engineering,Conract,2030
+357,357,357,Michele Vaughn,Male,46,2021,Assistant professor,Software Engineering,Regular,2029
+358,358,358,Bruce Hawkins,Female,45,2023,Assistant professor,Software Engineering,Regular,2030
+359,359,359,Mr. Robert Wong,Female,41,2023,Lecturer,Mechanical Engineering,Approve,2029
+360,360,360,Matthew Mayer,Male,60,2016,Dean,Civil Engineering,Conract,2030
+361,361,361,Carla Johnson,Female,60,2018,Research Professor,Electrical Engineering,Approve,2032
+362,362,362,Billy Peck,Female,57,2017,Associate Professor,Robotics and Automation,Regular,2030
+363,363,363,Janice Miller,Male,50,2022,Senior Professor,Software Engineering,Approve,2031
+364,364,364,April Moore,Female,52,2017,Director,Electrical Engineering,Regular,2028
+365,365,365,Elizabeth Evans,Female,48,2023,Director,Robotics and Automation,Approve,2031
+366,366,366,Katrina Frederick,Male,60,2016,Senior Professor,Civil Engineering,Approve,2030
+367,367,367,Morgan Moore,Male,48,2022,Associate Professor,Computer Engineering,Conract,2031
+368,368,368,Brian Chang,Female,46,2021,Associate Professor,Environmental Engineering,Conract,2029
+369,369,369,Amanda Baker,Female,60,2018,Director,Chemical Engineering,Conract,2032
+370,370,370,Patrick Fuentes,Female,60,2016,Assistant professor,Civil Engineering,Approve,2030
+371,371,371,Tina Rose,Male,54,2018,Senior Professor,Data Science and Engineering,Conract,2030
+372,372,372,Nicholas Brown,Female,59,2018,Lecturer,Civil Engineering,Approve,2032
+373,373,373,Danielle Miller,Male,37,2023,Assistant professor,Chemical Engineering,Regular,2027
+374,374,374,Robert Sanchez,Female,46,2023,Director,Software Engineering,Regular,2031
+375,375,375,Michael Woodard,Female,60,2017,Senior Professor,Geotechnical Engineering,Conract,2031
+376,376,376,Lindsey Hart,Female,45,2022,Assistant professor,Robotics and Automation,Conract,2030
+377,377,377,Laura Lindsey,Male,47,2023,Director,Robotics and Automation,Conract,2031
+378,378,378,Kyle Patterson,Male,55,2016,Research Professor,Aerospace Engineering,Conract,2029
+379,379,379,Kimberly Cummings,Male,45,2022,Lecturer,Mechanical Engineering,Approve,2030
+380,380,380,Thomas Mercer,Female,60,2018,Dean,Environmental Engineering,Regular,2032
+381,381,381,Randall Flores,Female,60,2016,Dean,Robotics and Automation,Approve,2030
+382,382,382,Dawn Davis,Male,60,2016,Senior Professor,Robotics and Automation,Regular,2030
+383,383,383,Mark Jones,Female,38,2023,Associate Professor,Environmental Engineering,Approve,2028
+384,384,384,Noah Green,Male,53,2017,Lecturer,Mechanical Engineering,Regular,2029
+385,385,385,Jamie Frey,Female,51,2016,Senior Professor,Electrical Engineering,Conract,2027
+386,386,386,Natalie Ford,Male,58,2017,Associate Professor,Aerospace Engineering,Regular,2030
+387,387,387,Miguel Jackson MD,Female,34,2022,Lecturer,Chemical Engineering,Approve,2026
+388,388,388,Kimberly Thomas,Female,42,2021,Senior Professor,Civil Engineering,Approve,2028
+389,389,389,Glenn Boyer,Female,57,2017,Assistant professor,Civil Engineering,Approve,2030
+390,390,390,Michael Butler V,Male,53,2016,Senior Professor,Geotechnical Engineering,Regular,2028
+391,391,391,Tyler Adams,Male,54,2017,Assistant professor,Computer Engineering,Regular,2029
+392,392,392,Gregory Lee,Male,60,2017,Dean,Aerospace Engineering,Regular,2031
+393,393,393,Rebecca Parker,Female,60,2017,Research Professor,Chemical Engineering,Regular,2031
+394,394,394,Phillip Fields,Male,57,2018,Director,Environmental Engineering,Conract,2031
+395,395,395,Lisa Hansen,Female,51,2018,Assistant professor,Software Engineering,Approve,2029
+396,396,396,Stephanie Thomas,Female,47,2022,Director,Aerospace Engineering,Regular,2030
+397,397,397,Mark Hicks,Male,50,2021,Lecturer,Robotics and Automation,Regular,2031
+398,398,398,Sarah Ruiz,Female,48,2023,Assistant professor,Computer Engineering,Conract,2031
+399,399,399,Daniel Benson,Male,49,2023,Research Professor,Aerospace Engineering,Regular,2032
+400,400,400,Brenda Owens,Male,60,2018,Dean,Electrical Engineering,Approve,2032
+401,401,401,Penny Hernandez,Male,55,2017,Director,Civil Engineering,Conract,2029
+402,402,402,Jason Cooper,Female,49,2023,Lecturer,Chemical Engineering,Regular,2032
+403,403,403,Jonathan Valenzuela,Female,44,2023,Lecturer,Aerospace Engineering,Regular,2030
+404,404,404,Michael Williams,Female,55,2016,Director,Robotics and Automation,Approve,2029
+405,405,405,Jenna Wilcox,Male,54,2018,Dean,Environmental Engineering,Conract,2030
+406,406,406,Matthew Gonzalez,Male,55,2017,Senior Professor,Mechanical Engineering,Approve,2029
+407,407,407,Tamara Gutierrez,Female,42,2022,Research Professor,Geotechnical Engineering,Regular,2028
+408,408,408,Heather Leonard,Male,59,2018,Assistant professor,Aerospace Engineering,Regular,2032
+409,409,409,Nicholas Cross,Male,60,2016,Dean,Aerospace Engineering,Conract,2030
+410,410,410,Mark Chavez,Female,55,2016,Director,Mechanical Engineering,Approve,2029
+411,411,411,Brenda Wagner,Male,47,2023,Dean,Software Engineering,Regular,2031
+412,412,412,Derrick Tate MD,Male,57,2016,Associate Professor,Environmental Engineering,Regular,2029
+413,413,413,Ann Cooper,Male,60,2017,Director,Software Engineering,Regular,2031
+414,414,414,Dale Mercer,Male,50,2023,Assistant professor,Software Engineering,Regular,2032
+415,415,415,Larry Swanson,Male,54,2018,Senior Professor,Robotics and Automation,Approve,2030
+416,416,416,Daryl Gill,Female,57,2016,Director,Mechanical Engineering,Regular,2029
+417,417,417,Jose Acevedo,Female,50,2023,Associate Professor,Software Engineering,Conract,2032
+418,418,418,Kaitlyn Jordan,Male,44,2023,Lecturer,Civil Engineering,Approve,2030
+419,419,419,Jesus Campos,Female,60,2017,Senior Professor,Software Engineering,Conract,2031
+420,420,420,Tiffany Baldwin,Female,37,2023,Assistant professor,Civil Engineering,Regular,2027
+421,421,421,Jennifer Marsh,Female,56,2017,Lecturer,Chemical Engineering,Regular,2030
+422,422,422,Katie Smith,Female,57,2016,Senior Professor,Robotics and Automation,Regular,2029
+423,423,423,Calvin Parrish,Female,51,2018,Dean,Aerospace Engineering,Approve,2029
+424,424,424,Kenneth Byrd,Male,57,2018,Assistant professor,Mechanical Engineering,Regular,2031
+425,425,425,Kelli Larson,Female,50,2022,Dean,Civil Engineering,Approve,2031
+426,426,426,Justin Hernandez,Female,58,2016,Senior Professor,Computer Engineering,Conract,2030
+427,427,427,John Wood,Male,55,2017,Dean,Aerospace Engineering,Approve,2029
+428,428,428,Craig Payne,Female,48,2023,Senior Professor,Electrical Engineering,Regular,2031
+429,429,429,Cassandra Green,Male,46,2022,Dean,Civil Engineering,Approve,2030
+430,430,430,Kayla Johnson,Female,46,2022,Director,Chemical Engineering,Conract,2030
+431,431,431,Lauren Barry,Male,43,2021,Assistant professor,Aerospace Engineering,Approve,2028
+432,432,432,Jacob Gross,Female,59,2017,Senior Professor,Civil Engineering,Approve,2031
+433,433,433,Sarah Ward,Male,55,2017,Senior Professor,Software Engineering,Conract,2029
+434,434,434,David Williams,Male,58,2018,Lecturer,Aerospace Engineering,Conract,2031
+435,435,435,Patrick Jones,Male,37,2023,Dean,Civil Engineering,Regular,2027
+436,436,436,Brian Brown,Male,60,2016,Research Professor,Software Engineering,Approve,2030
+437,437,437,Jason Smith,Female,60,2018,Associate Professor,Aerospace Engineering,Regular,2032
+438,438,438,James Thomas,Male,55,2018,Associate Professor,Robotics and Automation,Approve,2030
+439,439,439,Michael Miles,Male,49,2021,Director,Software Engineering,Regular,2030
+440,440,440,Michael Kennedy,Male,48,2021,Assistant professor,Chemical Engineering,Conract,2030
+441,441,441,Douglas Scott,Female,40,2023,Assistant professor,Chemical Engineering,Regular,2029
+442,442,442,Richard Glass,Female,38,2021,Associate Professor,Geotechnical Engineering,Approve,2026
+443,443,443,Jasmine Nelson,Female,60,2018,Associate Professor,Data Science and Engineering,Conract,2032
+444,444,444,Kimberly Roberson,Female,60,2018,Senior Professor,Environmental Engineering,Conract,2032
+445,445,445,Rachel Green,Male,59,2017,Senior Professor,Computer Engineering,Conract,2031
+446,446,446,Luke Hopkins,Male,44,2022,Research Professor,Computer Engineering,Regular,2029
+447,447,447,Timothy Sullivan,Male,59,2016,Associate Professor,Computer Engineering,Conract,2030
+448,448,448,Tyler Williams,Male,55,2018,Dean,Electrical Engineering,Conract,2030
+449,449,449,Gary Salazar,Male,60,2016,Senior Professor,Mechanical Engineering,Approve,2030
+450,450,450,Miranda King,Female,60,2017,Associate Professor,Robotics and Automation,Regular,2031
+451,451,451,Richard Nicholson,Female,40,2023,Research Professor,Robotics and Automation,Conract,2028
+452,452,452,Breanna Garcia,Female,55,2016,Associate Professor,Mechanical Engineering,Regular,2029
+453,453,453,Kristen Gomez,Male,60,2017,Research Professor,Electrical Engineering,Conract,2031
+454,454,454,Kyle Allen,Female,55,2016,Director,Environmental Engineering,Approve,2029
+455,455,455,Gina Thompson,Male,39,2023,Lecturer,Aerospace Engineering,Conract,2028
+456,456,456,Christopher Schaefer,Female,47,2022,Director,Civil Engineering,Regular,2030
+457,457,457,Matthew Williamson,Female,37,2023,Dean,Aerospace Engineering,Regular,2027
+458,458,458,Connie Garcia,Male,46,2022,Senior Professor,Environmental Engineering,Regular,2030
+459,459,459,Jessica Dean,Male,60,2017,Assistant professor,Environmental Engineering,Approve,2031
+460,460,460,Danny Miller,Male,52,2016,Associate Professor,Geotechnical Engineering,Regular,2028
+461,461,461,Janet Owens,Male,56,2018,Senior Professor,Computer Engineering,Regular,2030
+462,462,462,Christian Miller,Male,60,2018,Senior Professor,Mechanical Engineering,Conract,2032
+463,463,463,David Anderson,Female,60,2017,Research Professor,Computer Engineering,Regular,2031
+464,464,464,Kerry Wiggins,Male,46,2023,Director,Electrical Engineering,Approve,2031
+465,465,465,Michael Page,Male,43,2023,Dean,Computer Engineering,Regular,2030
+466,466,466,Clarence Johnson PhD,Female,52,2018,Dean,Environmental Engineering,Regular,2029
+467,467,467,Wesley Norman,Male,44,2023,Associate Professor,Computer Engineering,Conract,2030
+468,468,468,Kirk Mathis,Female,50,2021,Director,Civil Engineering,Conract,2031
+469,469,469,Carl Holland,Male,43,2021,Lecturer,Environmental Engineering,Approve,2028
+470,470,470,Virginia Alexander,Female,46,2022,Dean,Electrical Engineering,Regular,2030
+471,471,471,Sarah Murray,Male,45,2021,Associate Professor,Aerospace Engineering,Regular,2029
+472,472,472,Tammy Baker,Female,60,2016,Director,Chemical Engineering,Regular,2030
+473,473,473,Donna Dunn,Female,56,2018,Director,Computer Engineering,Approve,2030
+474,474,474,Andre Nguyen,Female,60,2018,Lecturer,Environmental Engineering,Conract,2032
+475,475,475,Brian Callahan,Male,45,2021,Dean,Geotechnical Engineering,Regular,2029
+476,476,476,Sheri Reynolds,Female,43,2021,Senior Professor,Software Engineering,Conract,2028
+477,477,477,Nancy Murphy,Female,47,2022,Assistant professor,Robotics and Automation,Approve,2030
+478,478,478,James Nguyen,Female,60,2017,Lecturer,Chemical Engineering,Regular,2031
+479,479,479,Allison Miller,Female,42,2022,Lecturer,Robotics and Automation,Conract,2028
+480,480,480,Richard Allison,Female,60,2017,Dean,Mechanical Engineering,Conract,2031
+481,481,481,Patrick Hansen,Male,60,2018,Director,Electrical Engineering,Regular,2032
+482,482,482,Jennifer Williams,Female,59,2017,Research Professor,Electrical Engineering,Approve,2031
+483,483,483,Kristen Price,Female,56,2016,Senior Professor,Chemical Engineering,Approve,2029
+484,484,484,Lisa Prince,Female,48,2023,Associate Professor,Software Engineering,Regular,2031
+485,485,485,Jasmine Ferguson,Male,45,2022,Assistant professor,Software Engineering,Conract,2030
+486,486,486,Justin Hobbs,Male,60,2016,Dean,Geotechnical Engineering,Regular,2030
+487,487,487,Scott Frye,Female,47,2022,Assistant professor,Computer Engineering,Approve,2030
+488,488,488,Matthew Wolfe,Female,40,2022,Associate Professor,Aerospace Engineering,Approve,2028
+489,489,489,Dustin Boyd,Male,57,2016,Dean,Geotechnical Engineering,Conract,2029
+490,490,490,Dr. Alejandra Smith,Female,49,2021,Senior Professor,Geotechnical Engineering,Approve,2030
+491,491,491,Tina Kerr,Female,58,2017,Director,Environmental Engineering,Conract,2030
+492,492,492,Scott Smith,Female,50,2023,Senior Professor,Software Engineering,Regular,2032
+493,493,493,Amanda Hernandez,Male,56,2016,Director,Software Engineering,Conract,2029
+494,494,494,Mr. Richard Glover,Male,51,2017,Research Professor,Geotechnical Engineering,Approve,2028
+495,495,495,James Ramos,Female,60,2016,Senior Professor,Environmental Engineering,Conract,2030
+496,496,496,Randy Martinez,Female,53,2018,Assistant professor,Civil Engineering,Regular,2029
+497,497,497,Faith Clark,Male,60,2017,Lecturer,Environmental Engineering,Approve,2031
+498,498,498,Thomas Hunter,Female,60,2016,Assistant professor,Environmental Engineering,Conract,2030
+499,499,499,Bobby Mcmillan,Male,51,2017,Dean,Computer Engineering,Approve,2028
+500,500,500,Erik Jackson,Male,48,2022,Assistant professor,Robotics and Automation,Conract,2031
+501,501,501,John Hanson,Male,58,2017,Senior Professor,Geotechnical Engineering,Regular,2030
+502,502,502,Suzanne Pace,Male,40,2021,Research Professor,Computer Engineering,Conract,2027
+503,503,503,Richard Murray,Female,60,2016,Associate Professor,Software Engineering,Approve,2030
+504,504,504,Joseph Brown,Female,60,2018,Director,Environmental Engineering,Approve,2032
+505,505,505,Mark Reed,Male,58,2016,Assistant professor,Data Science and Engineering,Approve,2030
+506,506,506,Alexandra Long,Female,32,2022,Associate Professor,Data Science and Engineering,Regular,2025
+507,507,507,Todd Rogers,Female,43,2021,Director,Mechanical Engineering,Regular,2028
+508,508,508,Janet Watkins,Female,49,2021,Senior Professor,Geotechnical Engineering,Approve,2030
+509,509,509,David Keller,Female,37,2022,Senior Professor,Data Science and Engineering,Conract,2027
+510,510,510,Casey Lawrence,Male,50,2023,Dean,Mechanical Engineering,Regular,2032
+511,511,511,Madison Evans,Female,60,2016,Research Professor,Civil Engineering,Conract,2030
+512,512,512,Nicole Johnson,Female,43,2021,Associate Professor,Civil Engineering,Conract,2028
+513,513,513,Ashley Hernandez,Female,60,2017,Assistant professor,Aerospace Engineering,Conract,2031
+514,514,514,Brandy Morris,Male,31,2023,Associate Professor,Civil Engineering,Conract,2025
+515,515,515,Jimmy Robles,Male,51,2018,Lecturer,Computer Engineering,Approve,2029
+516,516,516,James Garcia,Male,42,2023,Dean,Chemical Engineering,Conract,2029
+517,517,517,Joseph Gordon DDS,Female,60,2016,Director,Geotechnical Engineering,Regular,2030
+518,518,518,Pamela Gonzalez,Male,60,2016,Research Professor,Computer Engineering,Approve,2030
+519,519,519,Michelle Murray,Female,43,2022,Dean,Civil Engineering,Approve,2029
+520,520,520,Andrew Cross,Male,48,2022,Assistant professor,Environmental Engineering,Approve,2031
+521,521,521,Michael Shaw,Female,45,2021,Research Professor,Computer Engineering,Regular,2029
+522,522,522,Katherine Mcintosh,Male,51,2017,Senior Professor,Robotics and Automation,Approve,2028
+523,523,523,Michelle Watkins,Female,60,2016,Senior Professor,Chemical Engineering,Approve,2030
+524,524,524,Luis Morales,Male,47,2021,Assistant professor,Software Engineering,Conract,2030
+525,525,525,James Lee,Female,49,2023,Associate Professor,Aerospace Engineering,Approve,2032
+526,526,526,Philip Fisher Jr.,Male,44,2021,Dean,Robotics and Automation,Approve,2028
+527,527,527,Philip Holder,Male,55,2016,Research Professor,Aerospace Engineering,Approve,2029
+528,528,528,Jennifer Cole,Female,53,2018,Assistant professor,Geotechnical Engineering,Approve,2029
+529,529,529,Mr. Jeffery Garcia IV,Female,48,2022,Associate Professor,Software Engineering,Regular,2031
+530,530,530,Hannah Turner,Female,60,2016,Director,Electrical Engineering,Regular,2030
+531,531,531,Derrick Patterson,Male,60,2017,Dean,Chemical Engineering,Regular,2031
+532,532,532,Timothy Miller,Male,60,2017,Senior Professor,Software Engineering,Conract,2031
+533,533,533,Linda Clark,Male,49,2023,Director,Data Science and Engineering,Conract,2032
+534,534,534,Dwayne Collins,Male,56,2017,Associate Professor,Mechanical Engineering,Approve,2030
+535,535,535,Jared Malone,Female,50,2023,Director,Electrical Engineering,Conract,2032
+536,536,536,Michelle Jones,Female,60,2016,Lecturer,Electrical Engineering,Conract,2030
+537,537,537,Douglas Davis,Male,51,2016,Assistant professor,Geotechnical Engineering,Regular,2027
+538,538,538,Elizabeth Good,Male,60,2018,Assistant professor,Aerospace Engineering,Approve,2032
+539,539,539,Jeremy Richardson,Male,53,2018,Lecturer,Environmental Engineering,Conract,2029
+540,540,540,Jeremiah Clements,Female,57,2018,Senior Professor,Data Science and Engineering,Approve,2031
+541,541,541,David Bauer,Male,41,2021,Dean,Civil Engineering,Conract,2027
+542,542,542,James Chan,Female,60,2018,Dean,Mechanical Engineering,Conract,2032
+543,543,543,Melinda Griffin,Female,42,2023,Lecturer,Electrical Engineering,Conract,2029
+544,544,544,Bill Bryant,Male,60,2017,Research Professor,Chemical Engineering,Conract,2031
+545,545,545,Timothy Rush,Male,60,2017,Lecturer,Robotics and Automation,Approve,2031
+546,546,546,Kaitlin Miller,Male,51,2018,Research Professor,Software Engineering,Conract,2029
+547,547,547,Mario Rogers,Male,54,2018,Lecturer,Robotics and Automation,Conract,2030
+548,548,548,Danielle Banks,Female,56,2016,Research Professor,Geotechnical Engineering,Conract,2029
+549,549,549,Jennifer Foster,Male,60,2016,Senior Professor,Geotechnical Engineering,Regular,2030
+550,550,550,Anna Martinez,Male,53,2018,Senior Professor,Chemical Engineering,Approve,2029
+551,551,551,Stacey Jones,Male,44,2023,Lecturer,Computer Engineering,Regular,2030
+552,552,552,Ann Foley,Male,48,2021,Lecturer,Computer Engineering,Approve,2030
+553,553,553,Karen Stewart,Male,49,2023,Associate Professor,Robotics and Automation,Approve,2032
+554,554,554,Mary Blair,Female,60,2017,Associate Professor,Chemical Engineering,Regular,2031
+555,555,555,David Martin,Female,32,2023,Lecturer,Electrical Engineering,Regular,2026
+556,556,556,Michelle Ward,Male,40,2021,Dean,Aerospace Engineering,Conract,2027
+557,557,557,Darryl Strong,Female,36,2023,Lecturer,Civil Engineering,Conract,2027
+558,558,558,William King,Female,48,2022,Lecturer,Computer Engineering,Regular,2031
+559,559,559,Jake Herring,Male,55,2016,Dean,Robotics and Automation,Conract,2029
+560,560,560,Amy Stewart,Male,43,2021,Senior Professor,Civil Engineering,Regular,2028
+561,561,561,Ryan Cook,Male,55,2017,Lecturer,Environmental Engineering,Regular,2029
+562,562,562,Kristen Russell,Male,47,2023,Research Professor,Aerospace Engineering,Conract,2031
+563,563,563,Ricky Robertson,Male,47,2023,Assistant professor,Electrical Engineering,Conract,2031
+564,564,564,Margaret Haney,Male,60,2016,Senior Professor,Geotechnical Engineering,Approve,2030
+565,565,565,Amanda Thompson,Male,48,2021,Lecturer,Computer Engineering,Approve,2030
+566,566,566,Trevor Jenkins,Female,46,2021,Dean,Mechanical Engineering,Conract,2029
+567,567,567,Joseph Lawrence,Male,52,2016,Director,Data Science and Engineering,Regular,2028
+568,568,568,Kayla Miller,Female,60,2016,Lecturer,Robotics and Automation,Regular,2030
+569,569,569,James Cowan,Male,60,2016,Lecturer,Data Science and Engineering,Approve,2030
+570,570,570,Joseph Johnson,Male,60,2017,Director,Environmental Engineering,Approve,2031
+571,571,571,Angela Jacobs,Male,49,2021,Senior Professor,Software Engineering,Regular,2030
+572,572,572,Rebecca Osborn,Female,59,2018,Associate Professor,Geotechnical Engineering,Conract,2032
+573,573,573,Joseph Stafford,Male,60,2016,Senior Professor,Robotics and Automation,Conract,2030
+574,574,574,Tracy Cooper,Female,60,2016,Director,Environmental Engineering,Regular,2030
+575,575,575,Patrick Dorsey,Female,44,2021,Director,Mechanical Engineering,Regular,2028
+576,576,576,Gary Gutierrez,Female,41,2022,Associate Professor,Chemical Engineering,Regular,2028
+577,577,577,Michael Rivera,Male,54,2016,Research Professor,Software Engineering,Conract,2028
+578,578,578,Johnny Miller,Male,42,2022,Senior Professor,Environmental Engineering,Approve,2028
+579,579,579,Henry Allen,Male,54,2018,Research Professor,Robotics and Automation,Regular,2030
+580,580,580,Nicholas Hobbs,Female,49,2021,Lecturer,Chemical Engineering,Regular,2030
+581,581,581,Selena Newman,Female,30,2021,Associate Professor,Environmental Engineering,Approve,2023
+582,582,582,Joyce Hunter,Female,60,2016,Assistant professor,Software Engineering,Approve,2030
+583,583,583,Jonathan Martin,Female,39,2021,Associate Professor,Chemical Engineering,Conract,2027
+584,584,584,Erik Guzman,Female,45,2022,Assistant professor,Mechanical Engineering,Approve,2030
+585,585,585,Emily Mccormick,Male,42,2021,Research Professor,Mechanical Engineering,Regular,2028
+586,586,586,Debbie Lucas,Male,40,2022,Lecturer,Chemical Engineering,Conract,2028
+587,587,587,Jessica Moore,Male,53,2017,Associate Professor,Geotechnical Engineering,Approve,2029
+588,588,588,Brent Reid,Male,45,2023,Assistant professor,Environmental Engineering,Approve,2030
+589,589,589,Richard Jones,Male,52,2017,Director,Mechanical Engineering,Conract,2028
+590,590,590,Andre Moore,Male,60,2016,Director,Robotics and Automation,Approve,2030
+591,591,591,Sydney Walton,Female,60,2016,Director,Geotechnical Engineering,Regular,2030
+592,592,592,Christopher Holt,Female,58,2016,Research Professor,Electrical Engineering,Conract,2030
+593,593,593,Jasmin Shah,Female,58,2016,Research Professor,Chemical Engineering,Regular,2030
+594,594,594,Evelyn Smith,Female,60,2016,Lecturer,Computer Engineering,Conract,2030
+595,595,595,Ashley West,Male,48,2021,Director,Environmental Engineering,Approve,2030
+596,596,596,Mitchell Dominguez,Female,52,2018,Associate Professor,Mechanical Engineering,Approve,2029
+597,597,597,Susan Weaver,Male,51,2017,Dean,Data Science and Engineering,Regular,2028
+598,598,598,Jennifer Riley,Male,57,2016,Dean,Robotics and Automation,Regular,2029
+599,599,599,Kristin Hall,Male,50,2022,Assistant professor,Civil Engineering,Regular,2031
+600,600,600,Nichole Miller,Male,39,2021,Lecturer,Civil Engineering,Regular,2027
+601,601,601,Jason Gonzalez,Female,41,2023,Associate Professor,Environmental Engineering,Conract,2029
+602,602,602,Dr. Ruth Richardson MD,Male,47,2023,Assistant professor,Robotics and Automation,Regular,2031
+603,603,603,Michael Mitchell,Female,46,2023,Senior Professor,Chemical Engineering,Approve,2031
+604,604,604,Mr. Justin Harris PhD,Female,47,2023,Dean,Data Science and Engineering,Conract,2031
+605,605,605,Alan Foster,Male,42,2021,Dean,Chemical Engineering,Regular,2028
+606,606,606,Julie Anderson,Female,47,2022,Associate Professor,Data Science and Engineering,Approve,2030
+607,607,607,Robert Price III,Female,43,2022,Director,Civil Engineering,Approve,2029
+608,608,608,Deborah Yoder,Female,54,2017,Dean,Data Science and Engineering,Conract,2029
+609,609,609,Hailey West,Female,60,2018,Director,Civil Engineering,Regular,2032
+610,610,610,Mary Miller,Male,53,2018,Research Professor,Electrical Engineering,Conract,2029
+611,611,611,Travis Simmons,Female,60,2016,Senior Professor,Software Engineering,Approve,2030
+612,612,612,James Bonilla II,Male,49,2021,Lecturer,Electrical Engineering,Conract,2030
+613,613,613,Ryan Tucker,Male,51,2017,Senior Professor,Mechanical Engineering,Regular,2028
+614,614,614,Louis Luna,Female,57,2017,Dean,Mechanical Engineering,Conract,2030
+615,615,615,Andrew Daniels,Female,56,2016,Assistant professor,Computer Engineering,Conract,2029
+616,616,616,Donald Greene,Female,42,2022,Director,Geotechnical Engineering,Regular,2028
+617,617,617,Joseph Lambert,Female,60,2016,Senior Professor,Software Engineering,Regular,2030
+618,618,618,Hayley Richards,Male,48,2022,Assistant professor,Chemical Engineering,Conract,2031
+619,619,619,Kelli Francis,Male,53,2016,Research Professor,Civil Engineering,Conract,2028
+620,620,620,Stephanie Day,Male,53,2017,Dean,Computer Engineering,Regular,2029
+621,621,621,Elizabeth Kemp,Female,52,2018,Director,Data Science and Engineering,Regular,2029
+622,622,622,James Mays,Male,56,2016,Dean,Geotechnical Engineering,Conract,2029
+623,623,623,Logan Ritter,Male,60,2017,Research Professor,Software Engineering,Approve,2031
+624,624,624,Edward Sheppard,Male,60,2016,Lecturer,Data Science and Engineering,Regular,2030
+625,625,625,Jesse Horne,Female,41,2023,Associate Professor,Mechanical Engineering,Conract,2029
+626,626,626,Ian Snyder,Male,52,2017,Director,Data Science and Engineering,Regular,2028
+627,627,627,Jay Brewer,Male,43,2022,Research Professor,Chemical Engineering,Approve,2029
+628,628,628,Lisa Clements,Female,51,2018,Lecturer,Computer Engineering,Conract,2029
+629,629,629,Kimberly Anderson,Male,56,2018,Assistant professor,Civil Engineering,Regular,2031
+630,630,630,Jennifer Mccarty,Male,44,2023,Research Professor,Software Engineering,Conract,2030
+631,631,631,Sara Sanders,Male,58,2016,Assistant professor,Chemical Engineering,Approve,2030
+632,632,632,Maria Duncan,Female,36,2023,Lecturer,Environmental Engineering,Regular,2027
+633,633,633,Matthew Rodriguez,Female,54,2017,Assistant professor,Geotechnical Engineering,Approve,2029
+634,634,634,Kimberly Watkins,Male,33,2021,Senior Professor,Electrical Engineering,Conract,2024
+635,635,635,Cindy Wilson,Female,45,2022,Associate Professor,Software Engineering,Approve,2030
+636,636,636,Daniel Daugherty,Male,60,2017,Senior Professor,Data Science and Engineering,Regular,2031
+637,637,637,Joseph Wagner,Male,39,2022,Lecturer,Computer Engineering,Regular,2027
+638,638,638,Zachary Harris,Male,60,2016,Research Professor,Software Engineering,Approve,2030
+639,639,639,Tyler Smith,Female,57,2016,Senior Professor,Robotics and Automation,Conract,2029
+640,640,640,Ashley White,Female,54,2018,Associate Professor,Data Science and Engineering,Conract,2030
+641,641,641,Jasmine Harrell,Female,58,2018,Associate Professor,Robotics and Automation,Regular,2031
+642,642,642,Rachel Leonard,Female,59,2017,Dean,Civil Engineering,Regular,2031
+643,643,643,Robert Lang,Female,55,2017,Lecturer,Computer Engineering,Conract,2029
+644,644,644,Jonathan Hamilton,Male,40,2021,Assistant professor,Computer Engineering,Approve,2027
+645,645,645,Jordan Shields,Female,33,2021,Associate Professor,Robotics and Automation,Conract,2024
+646,646,646,Aaron Whitehead,Male,45,2023,Senior Professor,Aerospace Engineering,Conract,2030
+647,647,647,Mary Barnes,Male,56,2018,Associate Professor,Chemical Engineering,Approve,2030
+648,648,648,Mrs. Donna Mccormick,Female,44,2023,Associate Professor,Software Engineering,Conract,2030
+649,649,649,Heather Wade,Male,43,2022,Senior Professor,Software Engineering,Conract,2029
+650,650,650,Jennifer Jensen,Female,53,2017,Lecturer,Environmental Engineering,Conract,2029
+651,651,651,Eric Woodward,Female,48,2022,Senior Professor,Computer Engineering,Conract,2031
+652,652,652,Amy Young,Female,60,2016,Associate Professor,Robotics and Automation,Approve,2030
+653,653,653,Joseph Whitehead,Male,60,2018,Senior Professor,Software Engineering,Regular,2032
+654,654,654,Kelli Luna,Male,54,2017,Dean,Aerospace Engineering,Approve,2029
+655,655,655,Alex Cantu,Female,42,2021,Dean,Robotics and Automation,Approve,2028
+656,656,656,Charles Miles,Male,47,2021,Research Professor,Civil Engineering,Approve,2029
+657,657,657,Elizabeth Tucker,Male,35,2021,Associate Professor,Robotics and Automation,Regular,2025
+658,658,658,Teresa Munoz,Male,47,2021,Director,Mechanical Engineering,Approve,2029
+659,659,659,Kenneth Anderson,Male,48,2021,Dean,Robotics and Automation,Approve,2030
+660,660,660,James Wilson,Male,57,2018,Lecturer,Mechanical Engineering,Conract,2031
+661,661,661,Samuel Walton,Male,47,2023,Assistant professor,Environmental Engineering,Conract,2031
+662,662,662,Mary Jenkins,Male,58,2018,Assistant professor,Data Science and Engineering,Conract,2031
+663,663,663,Crystal Craig,Male,51,2016,Associate Professor,Mechanical Engineering,Approve,2027
+664,664,664,Susan Watkins,Female,52,2017,Dean,Data Science and Engineering,Conract,2028
+665,665,665,Amber Neal,Female,60,2017,Senior Professor,Geotechnical Engineering,Regular,2031
+666,666,666,Melissa Clay,Female,56,2018,Senior Professor,Data Science and Engineering,Conract,2030
+667,667,667,Ronnie Morgan,Male,57,2017,Lecturer,Environmental Engineering,Approve,2030
+668,668,668,Robert Harrell,Male,39,2023,Dean,Robotics and Automation,Regular,2028
+669,669,669,Steven Kane,Female,53,2016,Assistant professor,Chemical Engineering,Regular,2028
+670,670,670,Michael Cole,Female,39,2022,Director,Geotechnical Engineering,Regular,2027
+671,671,671,Michael Thomas,Female,56,2016,Assistant professor,Civil Engineering,Conract,2029
+672,672,672,Danielle Myers,Female,60,2017,Lecturer,Aerospace Engineering,Conract,2031
+673,673,673,Scott Clark,Female,30,2023,Director,Environmental Engineering,Regular,2025
+674,674,674,Lisa Payne,Female,60,2016,Associate Professor,Data Science and Engineering,Conract,2030
+675,675,675,Jacob Morales,Female,43,2021,Research Professor,Chemical Engineering,Regular,2028
+676,676,676,Susan Weber,Female,55,2016,Assistant professor,Environmental Engineering,Regular,2029
+677,677,677,Cynthia Fisher,Male,60,2018,Director,Mechanical Engineering,Conract,2032
+678,678,678,Misty Roberts,Female,60,2018,Associate Professor,Robotics and Automation,Regular,2032
+679,679,679,Christopher Montes,Male,48,2022,Dean,Chemical Engineering,Approve,2031
+680,680,680,Mark Lane,Female,53,2016,Lecturer,Mechanical Engineering,Conract,2028
+681,681,681,Michael Beck,Female,51,2018,Associate Professor,Robotics and Automation,Approve,2029
+682,682,682,Roger Wolf MD,Female,44,2022,Dean,Mechanical Engineering,Conract,2029
+683,683,683,Jeremy Shepard,Female,51,2018,Director,Mechanical Engineering,Approve,2029
+684,684,684,Eric Meyer,Female,32,2021,Lecturer,Aerospace Engineering,Conract,2024
+685,685,685,Trevor Kim,Female,60,2018,Senior Professor,Data Science and Engineering,Regular,2032
+686,686,686,Jeffery Taylor,Female,57,2018,Director,Electrical Engineering,Regular,2031
+687,687,687,Margaret Butler,Female,60,2016,Senior Professor,Civil Engineering,Conract,2030
+688,688,688,Suzanne Johnson,Female,46,2023,Lecturer,Computer Engineering,Conract,2031
+689,689,689,April Gutierrez,Female,48,2021,Director,Computer Engineering,Regular,2030
+690,690,690,Christina Walker,Male,47,2022,Assistant professor,Chemical Engineering,Conract,2030
+691,691,691,Gail Mccann,Female,40,2022,Associate Professor,Aerospace Engineering,Regular,2028
+692,692,692,Lisa Harrington,Female,56,2018,Director,Robotics and Automation,Regular,2031
+693,693,693,Barbara Cooley,Female,43,2023,Senior Professor,Mechanical Engineering,Regular,2030
+694,694,694,Elizabeth Wiggins,Male,49,2021,Associate Professor,Civil Engineering,Conract,2030
+695,695,695,Pamela Webster,Male,48,2021,Director,Computer Engineering,Regular,2030
+696,696,696,William Campbell,Male,60,2016,Dean,Computer Engineering,Conract,2030
+697,697,697,Logan Wong,Female,55,2018,Associate Professor,Computer Engineering,Approve,2030
+698,698,698,Gina Howard,Female,45,2022,Senior Professor,Civil Engineering,Regular,2030
+699,699,699,Sarah Hunter,Male,60,2017,Research Professor,Civil Engineering,Conract,2031
+700,700,700,Amy Scott,Female,49,2022,Lecturer,Computer Engineering,Regular,2031
+701,701,701,Mr. Michael Martin MD,Female,51,2018,Assistant professor,Data Science and Engineering,Regular,2029
+702,702,702,Kari Morton,Male,56,2018,Senior Professor,Computer Engineering,Regular,2030
+703,703,703,Randall Alvarez,Female,34,2021,Director,Geotechnical Engineering,Approve,2025
+704,704,704,Taylor Hawkins,Male,49,2023,Associate Professor,Environmental Engineering,Conract,2032
+705,705,705,Pamela Harrison,Male,35,2023,Assistant professor,Civil Engineering,Conract,2027
+706,706,706,Matthew Dudley,Male,35,2021,Assistant professor,Aerospace Engineering,Approve,2025
+707,707,707,Maria Jones,Male,52,2016,Assistant professor,Computer Engineering,Conract,2028
+708,708,708,Dale Valdez,Male,43,2022,Associate Professor,Robotics and Automation,Regular,2029
+709,709,709,Andre Bell,Male,52,2018,Lecturer,Chemical Engineering,Conract,2029
+710,710,710,Candace Woods,Female,40,2023,Dean,Data Science and Engineering,Regular,2028
+711,711,711,Robert Anderson,Female,38,2023,Lecturer,Aerospace Engineering,Conract,2028
+712,712,712,Michael Ferguson,Female,60,2016,Dean,Computer Engineering,Approve,2030
+713,713,713,Jerry Lam,Male,52,2017,Assistant professor,Civil Engineering,Regular,2028
+714,714,714,Michael Anderson,Female,38,2021,Senior Professor,Aerospace Engineering,Conract,2026
+715,715,715,Mrs. Veronica Hughes MD,Male,60,2017,Dean,Environmental Engineering,Approve,2031
+716,716,716,Christopher Landry,Male,42,2023,Senior Professor,Electrical Engineering,Conract,2029
+717,717,717,Jacob Hall,Female,60,2018,Assistant professor,Robotics and Automation,Conract,2032
+718,718,718,Susan Erickson,Male,40,2023,Dean,Civil Engineering,Conract,2028
+719,719,719,Toni Hall,Female,45,2021,Senior Professor,Data Science and Engineering,Approve,2029
+720,720,720,Dawn Humphrey,Male,56,2017,Assistant professor,Environmental Engineering,Approve,2030
+721,721,721,Juan Zimmerman,Female,60,2016,Lecturer,Geotechnical Engineering,Conract,2030
+722,722,722,Autumn Rangel,Female,45,2021,Lecturer,Data Science and Engineering,Regular,2029
+723,723,723,Michael Landry,Male,58,2016,Director,Software Engineering,Regular,2030
+724,724,724,Elizabeth Fisher,Female,56,2016,Senior Professor,Civil Engineering,Conract,2029
+725,725,725,Christina Bell,Male,40,2022,Assistant professor,Civil Engineering,Approve,2028
+726,726,726,Stephen Jackson,Male,54,2016,Assistant professor,Aerospace Engineering,Conract,2028
+727,727,727,Adam Morrison,Female,40,2021,Dean,Data Science and Engineering,Conract,2027
+728,728,728,Marc Torres,Female,59,2016,Research Professor,Data Science and Engineering,Regular,2030
+729,729,729,Karen Reynolds,Male,55,2016,Director,Robotics and Automation,Regular,2029
+730,730,730,Lisa Bryant,Male,45,2023,Director,Civil Engineering,Regular,2030
+731,731,731,Darlene Davis,Male,56,2017,Senior Professor,Aerospace Engineering,Approve,2030
+732,732,732,Anthony Peterson,Female,60,2017,Associate Professor,Aerospace Engineering,Conract,2031
+733,733,733,Casey Walker,Female,58,2017,Senior Professor,Robotics and Automation,Regular,2030
+734,734,734,Rebecca Becker,Male,50,2023,Research Professor,Aerospace Engineering,Conract,2032
+735,735,735,Charles Wilson,Male,37,2023,Research Professor,Environmental Engineering,Approve,2027
+736,736,736,Benjamin Holmes,Male,32,2021,Director,Computer Engineering,Regular,2024
+737,737,737,Kevin Glover,Male,58,2018,Research Professor,Chemical Engineering,Regular,2031
+738,738,738,Brian Jones,Female,57,2017,Research Professor,Electrical Engineering,Approve,2030
+739,739,739,Tara Evans,Female,48,2023,Dean,Mechanical Engineering,Conract,2031
+740,740,740,Jennifer Nguyen,Female,34,2021,Lecturer,Civil Engineering,Approve,2025
+741,741,741,Calvin Brown,Male,45,2021,Director,Data Science and Engineering,Approve,2029
+742,742,742,Kerri Griffin,Female,56,2018,Assistant professor,Geotechnical Engineering,Conract,2031
+743,743,743,David Gray,Female,49,2023,Senior Professor,Robotics and Automation,Approve,2032
+744,744,744,Jessica Blevins,Male,59,2018,Director,Environmental Engineering,Approve,2032
+745,745,745,Jose Gonzalez,Female,50,2023,Lecturer,Robotics and Automation,Conract,2032
+746,746,746,Kyle Adams,Female,43,2023,Associate Professor,Environmental Engineering,Approve,2030
+747,747,747,Kathryn Griffith,Female,49,2023,Senior Professor,Mechanical Engineering,Approve,2032
+748,748,748,Jerry Edwards Jr.,Male,40,2023,Assistant professor,Civil Engineering,Approve,2028
+749,749,749,Edward Johnson,Male,60,2018,Lecturer,Computer Engineering,Approve,2032
+750,750,750,Jason Simmons,Male,53,2016,Director,Aerospace Engineering,Conract,2028
+751,751,751,Amy French,Male,46,2022,Senior Professor,Environmental Engineering,Regular,2030
+752,752,752,Jamie Johnson,Male,57,2017,Dean,Data Science and Engineering,Approve,2030
+753,753,753,Tyler Norman,Female,40,2023,Lecturer,Aerospace Engineering,Conract,2028
+754,754,754,Dustin Gates,Female,60,2017,Lecturer,Software Engineering,Conract,2031
+755,755,755,Eileen Castillo,Female,30,2021,Dean,Mechanical Engineering,Approve,2023
+756,756,756,Joshua Santos,Male,60,2018,Dean,Chemical Engineering,Conract,2032
+757,757,757,Julia Roberts,Male,49,2022,Research Professor,Software Engineering,Conract,2031
+758,758,758,Jennifer Wright,Male,41,2023,Assistant professor,Mechanical Engineering,Approve,2029
+759,759,759,Wendy Reyes,Female,56,2016,Lecturer,Environmental Engineering,Conract,2029
+760,760,760,Angela Neal,Male,48,2022,Associate Professor,Mechanical Engineering,Regular,2031
+761,761,761,Katie Erickson,Female,49,2022,Dean,Robotics and Automation,Conract,2031
+762,762,762,Jerry Young,Female,52,2017,Assistant professor,Civil Engineering,Conract,2028
+763,763,763,Mary White,Male,49,2021,Assistant professor,Chemical Engineering,Conract,2030
+764,764,764,Jeffrey Williams,Female,60,2017,Senior Professor,Data Science and Engineering,Regular,2031
+765,765,765,Andre Greene,Female,49,2021,Dean,Software Engineering,Conract,2030
+766,766,766,Megan Hughes,Male,46,2022,Lecturer,Aerospace Engineering,Approve,2030
+767,767,767,Alexander Warner,Female,54,2018,Senior Professor,Computer Engineering,Approve,2030
+768,768,768,Rodney Young,Male,43,2021,Assistant professor,Geotechnical Engineering,Regular,2028
+769,769,769,Amy Welch,Female,40,2021,Lecturer,Mechanical Engineering,Regular,2027
+770,770,770,Susan Garza,Male,52,2018,Senior Professor,Civil Engineering,Conract,2029
+771,771,771,Caleb Curtis,Male,56,2017,Research Professor,Data Science and Engineering,Conract,2030
+772,772,772,Mark Carter,Female,57,2016,Senior Professor,Computer Engineering,Conract,2029
+773,773,773,Frances Thompson,Male,32,2021,Associate Professor,Environmental Engineering,Approve,2024
+774,774,774,Melissa Camacho,Female,50,2023,Associate Professor,Robotics and Automation,Approve,2032
+775,775,775,Jenna Brown,Male,54,2017,Dean,Environmental Engineering,Regular,2029
+776,776,776,Terry Soto,Male,60,2018,Senior Professor,Chemical Engineering,Regular,2032
+777,777,777,Andrea Edwards,Male,42,2022,Senior Professor,Chemical Engineering,Approve,2028
+778,778,778,Thomas Hobbs,Female,36,2023,Dean,Software Engineering,Conract,2027
+779,779,779,Julie Craig,Female,46,2023,Research Professor,Electrical Engineering,Regular,2031
+780,780,780,Travis Olsen,Male,59,2016,Senior Professor,Environmental Engineering,Approve,2030
+781,781,781,Danielle Caldwell,Male,51,2016,Associate Professor,Robotics and Automation,Regular,2027
+782,782,782,Dennis Bailey,Female,60,2018,Research Professor,Civil Engineering,Conract,2032
+783,783,783,Amber Richardson,Male,41,2021,Senior Professor,Mechanical Engineering,Regular,2027
+784,784,784,Julie Meyer,Female,59,2017,Assistant professor,Civil Engineering,Regular,2031
+785,785,785,Jill Green,Female,49,2022,Director,Software Engineering,Regular,2031
+786,786,786,Taylor Willis,Male,48,2022,Assistant professor,Aerospace Engineering,Approve,2031
+787,787,787,Kelly Rodriguez,Female,60,2018,Assistant professor,Computer Engineering,Approve,2032
+788,788,788,Tyler Mason,Male,60,2017,Associate Professor,Software Engineering,Approve,2031
+789,789,789,Hannah Guerrero,Female,57,2018,Research Professor,Computer Engineering,Conract,2031
+790,790,790,Garrett Scott,Female,47,2022,Assistant professor,Geotechnical Engineering,Conract,2030
+791,791,791,James Owen,Male,41,2022,Senior Professor,Computer Engineering,Conract,2028
+792,792,792,Julie Colon,Female,47,2022,Director,Robotics and Automation,Conract,2030
+793,793,793,David Graham,Male,60,2018,Senior Professor,Data Science and Engineering,Conract,2032
+794,794,794,Amanda Crawford,Female,37,2023,Assistant professor,Computer Engineering,Approve,2027
+795,795,795,Robert Lang,Male,52,2018,Research Professor,Chemical Engineering,Approve,2029
+796,796,796,Luis King,Male,60,2018,Senior Professor,Environmental Engineering,Regular,2032
+797,797,797,David Hunt,Male,58,2018,Dean,Mechanical Engineering,Regular,2031
+798,798,798,Andrew Woodard,Male,58,2018,Associate Professor,Civil Engineering,Regular,2031
+799,799,799,April Wood,Female,34,2023,Senior Professor,Environmental Engineering,Conract,2026
+800,800,800,Kevin Jennings,Male,40,2022,Associate Professor,Robotics and Automation,Conract,2028
+801,801,801,Carrie Parks,Female,60,2018,Dean,Software Engineering,Approve,2032
+802,802,802,Michael Potts,Male,45,2021,Dean,Electrical Engineering,Conract,2029
+803,803,803,Trevor Bentley,Female,40,2021,Lecturer,Software Engineering,Approve,2027
+804,804,804,Philip Thompson,Male,60,2018,Associate Professor,Chemical Engineering,Approve,2032
+805,805,805,Ryan Thomas,Female,52,2018,Research Professor,Mechanical Engineering,Approve,2029
+806,806,806,Megan Soto,Male,60,2018,Research Professor,Computer Engineering,Regular,2032
+807,807,807,Nicole Lewis,Female,60,2017,Assistant professor,Software Engineering,Approve,2031
+808,808,808,Linda Anderson,Male,33,2021,Senior Professor,Data Science and Engineering,Approve,2024
+809,809,809,Jacqueline Walton,Male,60,2016,Senior Professor,Electrical Engineering,Approve,2030
+810,810,810,Michael Scott,Male,60,2016,Senior Professor,Electrical Engineering,Approve,2030
+811,811,811,Michael Wood,Male,58,2017,Research Professor,Software Engineering,Approve,2030
+812,812,812,Kimberly Thomas,Female,47,2021,Research Professor,Data Science and Engineering,Conract,2030
+813,813,813,Thomas Bradshaw,Male,47,2023,Dean,Aerospace Engineering,Regular,2031
+814,814,814,Jennifer Parker,Female,42,2022,Assistant professor,Software Engineering,Approve,2028
+815,815,815,Michael Hunt,Male,54,2018,Assistant professor,Software Engineering,Conract,2030
+816,816,816,Danielle Elliott,Male,39,2021,Associate Professor,Geotechnical Engineering,Conract,2027
+817,817,817,Anna Decker,Female,35,2022,Senior Professor,Mechanical Engineering,Conract,2026
+818,818,818,Jennifer Mills,Female,47,2023,Senior Professor,Environmental Engineering,Approve,2031
+819,819,819,Matthew Browning,Male,46,2023,Dean,Robotics and Automation,Approve,2031
+820,820,820,Robyn Rios,Female,53,2016,Senior Professor,Electrical Engineering,Approve,2028
+821,821,821,Courtney Evans DVM,Female,50,2021,Director,Geotechnical Engineering,Approve,2031
+822,822,822,Jennifer Ruiz,Female,45,2023,Research Professor,Robotics and Automation,Regular,2030
+823,823,823,Scott Wagner,Female,39,2022,Senior Professor,Civil Engineering,Approve,2027
+824,824,824,Jessica Davis,Female,49,2021,Dean,Chemical Engineering,Conract,2030
+825,825,825,Ronald Rosales,Female,42,2022,Lecturer,Aerospace Engineering,Regular,2028
+826,826,826,James Hale,Female,40,2021,Lecturer,Computer Engineering,Conract,2027
+827,827,827,Jason Hudson,Female,54,2016,Associate Professor,Mechanical Engineering,Approve,2028
+828,828,828,Dr. Chase Diaz III,Male,42,2023,Dean,Electrical Engineering,Conract,2029
+829,829,829,Renee Rocha,Female,60,2017,Research Professor,Civil Engineering,Conract,2031
+830,830,830,Ronald Huff,Female,60,2018,Associate Professor,Chemical Engineering,Approve,2032
+831,831,831,Stacie Jones,Female,48,2022,Dean,Electrical Engineering,Approve,2031
+832,832,832,Amy Fields,Male,45,2021,Dean,Robotics and Automation,Regular,2029
+833,833,833,Jessica Yang,Female,40,2022,Senior Professor,Chemical Engineering,Conract,2028
+834,834,834,Antonio Perkins,Female,52,2017,Associate Professor,Mechanical Engineering,Approve,2028
+835,835,835,Chad Smith,Male,45,2023,Dean,Software Engineering,Conract,2030
+836,836,836,Casey Schmidt,Female,60,2016,Associate Professor,Software Engineering,Approve,2030
+837,837,837,Melissa Morgan PhD,Male,37,2021,Assistant professor,Geotechnical Engineering,Approve,2026
+838,838,838,Tammy Hamilton,Male,55,2018,Associate Professor,Geotechnical Engineering,Regular,2030
+839,839,839,Teresa Lambert,Female,59,2016,Research Professor,Robotics and Automation,Regular,2030
+840,840,840,Miranda Gardner,Female,60,2016,Senior Professor,Data Science and Engineering,Conract,2030
+841,841,841,Mark Johnson,Female,58,2018,Research Professor,Computer Engineering,Regular,2031
+842,842,842,Barbara Tucker,Male,40,2022,Lecturer,Aerospace Engineering,Regular,2028
+843,843,843,Jennifer Hensley,Female,49,2022,Senior Professor,Environmental Engineering,Regular,2031
+844,844,844,Gabriela Mcclain,Female,55,2017,Research Professor,Environmental Engineering,Approve,2029
+845,845,845,Jill Adams,Male,60,2017,Director,Software Engineering,Regular,2031
+846,846,846,Kimberly Owens,Male,57,2017,Assistant professor,Mechanical Engineering,Conract,2030
+847,847,847,Sally Jackson,Male,49,2021,Senior Professor,Robotics and Automation,Approve,2030
+848,848,848,Joy Thomas,Male,56,2017,Senior Professor,Software Engineering,Regular,2030
+849,849,849,Brian Fox,Female,30,2023,Associate Professor,Software Engineering,Regular,2025
+850,850,850,Catherine Garcia,Male,54,2016,Senior Professor,Mechanical Engineering,Regular,2028
+851,851,851,Cameron Weber,Female,56,2017,Research Professor,Civil Engineering,Conract,2030
+852,852,852,Jessica Reyes,Male,55,2018,Associate Professor,Environmental Engineering,Regular,2030
+853,853,853,Carla Lee MD,Male,45,2021,Research Professor,Geotechnical Engineering,Regular,2029
+854,854,854,David Sanchez,Male,60,2016,Assistant professor,Electrical Engineering,Approve,2030
+855,855,855,Melissa Noble,Female,52,2018,Director,Computer Engineering,Regular,2029
+856,856,856,Stephen Cain,Male,55,2017,Assistant professor,Electrical Engineering,Conract,2029
+857,857,857,Anna Jones,Male,50,2022,Research Professor,Chemical Engineering,Regular,2031
+858,858,858,Benjamin Joseph,Female,60,2017,Assistant professor,Geotechnical Engineering,Conract,2031
+859,859,859,Mark Rivas,Female,52,2018,Assistant professor,Electrical Engineering,Approve,2029
+860,860,860,Andrew Gonzalez,Male,43,2023,Research Professor,Chemical Engineering,Approve,2030
+861,861,861,Madison Morris,Male,51,2018,Director,Civil Engineering,Conract,2029
+862,862,862,Charles Shelton,Female,51,2017,Senior Professor,Data Science and Engineering,Conract,2028
+863,863,863,Randall Simpson,Male,49,2021,Director,Civil Engineering,Regular,2030
+864,864,864,Maria Tran,Female,48,2023,Dean,Geotechnical Engineering,Conract,2031
+865,865,865,Krystal Medina,Female,58,2018,Associate Professor,Aerospace Engineering,Regular,2031
+866,866,866,Zoe Moore,Male,60,2017,Assistant professor,Software Engineering,Approve,2031
+867,867,867,Joseph Whitaker,Male,56,2016,Lecturer,Computer Engineering,Conract,2029
+868,868,868,Jeffery Weeks,Female,45,2021,Associate Professor,Computer Engineering,Conract,2029
+869,869,869,Emily Hobbs,Female,60,2016,Dean,Software Engineering,Regular,2030
+870,870,870,Bianca Lane,Male,44,2023,Senior Professor,Chemical Engineering,Regular,2030
+871,871,871,Brian James,Male,37,2023,Associate Professor,Geotechnical Engineering,Regular,2027
+872,872,872,Brianna Ballard,Male,51,2016,Lecturer,Chemical Engineering,Conract,2027
+873,873,873,Natalie Cruz,Male,54,2017,Research Professor,Computer Engineering,Conract,2029
+874,874,874,Kevin Sullivan,Male,55,2016,Senior Professor,Aerospace Engineering,Approve,2029
+875,875,875,Sergio Ferguson,Female,56,2018,Director,Electrical Engineering,Conract,2031
+876,876,876,Craig Craig,Female,60,2017,Director,Robotics and Automation,Conract,2031
+877,877,877,Joshua Rodriguez,Male,60,2018,Assistant professor,Mechanical Engineering,Approve,2032
+878,878,878,Robert Johnson,Female,46,2023,Lecturer,Data Science and Engineering,Regular,2031
+879,879,879,Bradley Rios,Male,53,2016,Dean,Mechanical Engineering,Regular,2028
+880,880,880,Brian Green,Male,56,2017,Assistant professor,Software Engineering,Approve,2030
+881,881,881,Heather Brandt,Male,54,2017,Lecturer,Robotics and Automation,Approve,2029
+882,882,882,Edward Andersen,Female,60,2018,Assistant professor,Robotics and Automation,Regular,2032
+883,883,883,Caitlyn Cooke,Female,60,2018,Assistant professor,Aerospace Engineering,Approve,2032
+884,884,884,Melanie Leon,Male,43,2021,Senior Professor,Software Engineering,Regular,2028
+885,885,885,Jordan White,Female,43,2022,Director,Geotechnical Engineering,Approve,2029
+886,886,886,Timothy Ruiz,Male,34,2021,Director,Geotechnical Engineering,Regular,2025
+887,887,887,Stephen White,Female,52,2016,Senior Professor,Chemical Engineering,Regular,2028
+888,888,888,Elizabeth Anderson,Male,42,2021,Research Professor,Robotics and Automation,Conract,2028
+889,889,889,Tara Chung,Male,37,2022,Assistant professor,Environmental Engineering,Regular,2027
+890,890,890,Jason Maynard,Female,60,2017,Lecturer,Aerospace Engineering,Approve,2031
+891,891,891,Gina Shaw,Male,52,2017,Assistant professor,Environmental Engineering,Conract,2028
+892,892,892,Robin Wright,Male,46,2022,Assistant professor,Robotics and Automation,Regular,2030
+893,893,893,Jasmine Barber,Male,40,2023,Research Professor,Electrical Engineering,Approve,2028
+894,894,894,Karen Wiley,Male,52,2018,Dean,Chemical Engineering,Conract,2029
+895,895,895,Rebecca Ortiz,Female,57,2018,Director,Mechanical Engineering,Approve,2031
+896,896,896,Steven Swanson,Female,60,2017,Senior Professor,Computer Engineering,Regular,2031
+897,897,897,Janet Morgan,Female,58,2017,Director,Computer Engineering,Conract,2030
+898,898,898,Kelli Wilcox,Male,44,2023,Assistant professor,Computer Engineering,Regular,2030
+899,899,899,Hannah Michael,Female,42,2021,Associate Professor,Data Science and Engineering,Conract,2028
+900,900,900,Isaac Parker,Female,60,2018,Associate Professor,Software Engineering,Conract,2032
+901,901,901,Seth Smith,Male,53,2018,Research Professor,Chemical Engineering,Approve,2029
+902,902,902,Lori Bowen,Female,60,2016,Director,Electrical Engineering,Conract,2030
+903,903,903,Randall Pierce,Female,60,2018,Director,Data Science and Engineering,Conract,2032
+904,904,904,Ashley Williams,Female,60,2017,Assistant professor,Mechanical Engineering,Approve,2031
+905,905,905,Karen Espinoza,Male,51,2016,Assistant professor,Geotechnical Engineering,Approve,2027
+906,906,906,Mary Ibarra,Male,60,2016,Lecturer,Aerospace Engineering,Regular,2030
+907,907,907,Kari Olsen,Male,30,2021,Director,Chemical Engineering,Approve,2023
+908,908,908,Richard Morris,Male,54,2017,Associate Professor,Civil Engineering,Regular,2029
+909,909,909,Jason Bates,Female,60,2017,Dean,Software Engineering,Conract,2031
+910,910,910,April Peterson,Female,45,2023,Research Professor,Software Engineering,Conract,2030
+911,911,911,Teresa Schmitt,Female,46,2021,Lecturer,Electrical Engineering,Approve,2029
+912,912,912,Elizabeth Hancock,Male,40,2021,Lecturer,Environmental Engineering,Regular,2027
+913,913,913,Craig Davis,Female,44,2021,Director,Electrical Engineering,Conract,2028
+914,914,914,Michael Garcia,Male,42,2021,Director,Software Engineering,Regular,2028
+915,915,915,Joseph Andrews,Female,47,2022,Assistant professor,Mechanical Engineering,Regular,2030
+916,916,916,Valerie Miller,Female,55,2018,Dean,Environmental Engineering,Conract,2030
+917,917,917,Amy Johnson,Male,59,2017,Senior Professor,Data Science and Engineering,Regular,2031
+918,918,918,Robert Skinner,Female,60,2016,Lecturer,Environmental Engineering,Approve,2030
+919,919,919,Tammy Smith,Female,60,2016,Research Professor,Software Engineering,Conract,2030
+920,920,920,Ian Bryant,Female,60,2017,Senior Professor,Data Science and Engineering,Conract,2031
+921,921,921,Christian King,Male,52,2018,Research Professor,Geotechnical Engineering,Conract,2029
+922,922,922,Vanessa Wilson,Female,45,2022,Research Professor,Computer Engineering,Regular,2030
+923,923,923,Shannon Mccarthy,Female,50,2021,Director,Environmental Engineering,Regular,2031
+924,924,924,Andrew Turner,Female,52,2018,Dean,Mechanical Engineering,Approve,2029
+925,925,925,Kimberly Jordan,Male,60,2017,Dean,Chemical Engineering,Approve,2031
+926,926,926,Phyllis Perez,Female,60,2016,Assistant professor,Chemical Engineering,Conract,2030
+927,927,927,Kevin Velasquez,Female,60,2016,Research Professor,Electrical Engineering,Regular,2030
+928,928,928,Gary Anderson,Female,50,2023,Lecturer,Aerospace Engineering,Approve,2032
+929,929,929,Kathleen Morgan,Male,49,2022,Dean,Electrical Engineering,Approve,2031
+930,930,930,Mark Williams,Female,53,2016,Research Professor,Data Science and Engineering,Regular,2028
+931,931,931,Michael Adams,Male,50,2021,Lecturer,Robotics and Automation,Regular,2031
+932,932,932,Dillon Medina,Male,30,2023,Lecturer,Data Science and Engineering,Conract,2025
+933,933,933,Molly Williams,Male,45,2023,Senior Professor,Chemical Engineering,Conract,2030
+934,934,934,Debbie Johnson,Female,54,2018,Associate Professor,Civil Engineering,Regular,2030
+935,935,935,Meghan Kennedy,Female,44,2022,Director,Computer Engineering,Conract,2029
+936,936,936,Steve Thornton,Male,60,2016,Associate Professor,Software Engineering,Regular,2030
+937,937,937,Laura Bowman,Male,56,2017,Lecturer,Robotics and Automation,Conract,2030
+938,938,938,Michael Johnston,Male,55,2016,Research Professor,Computer Engineering,Approve,2029
+939,939,939,Tina Williams,Male,60,2017,Dean,Environmental Engineering,Regular,2031
+940,940,940,Michelle Raymond,Female,56,2017,Associate Professor,Software Engineering,Conract,2030
+941,941,941,Anita Smith,Female,30,2021,Research Professor,Chemical Engineering,Regular,2023
+942,942,942,Shannon Walters,Female,42,2023,Associate Professor,Robotics and Automation,Conract,2029
+943,943,943,Sarah Clark,Female,41,2021,Research Professor,Software Engineering,Approve,2027
+944,944,944,Leslie Brooks,Male,39,2021,Director,Robotics and Automation,Conract,2027
+945,945,945,Pamela Strickland,Female,52,2016,Lecturer,Electrical Engineering,Regular,2028
+946,946,946,Brittany Porter,Male,37,2023,Assistant professor,Data Science and Engineering,Approve,2027
+947,947,947,Stephen Liu,Male,50,2021,Assistant professor,Geotechnical Engineering,Conract,2031
+948,948,948,Randy Nelson,Male,40,2021,Lecturer,Environmental Engineering,Conract,2027
+949,949,949,Sarah Mccoy,Female,56,2017,Associate Professor,Geotechnical Engineering,Conract,2030
+950,950,950,Michael Nunez,Female,30,2021,Associate Professor,Environmental Engineering,Approve,2023
+951,951,951,John Moreno Jr.,Male,57,2017,Research Professor,Aerospace Engineering,Approve,2030
+952,952,952,Sara Young,Female,53,2016,Lecturer,Aerospace Engineering,Conract,2028
+953,953,953,Karen Jackson,Female,57,2017,Dean,Data Science and Engineering,Conract,2030
+954,954,954,Courtney Carrillo,Male,60,2016,Research Professor,Geotechnical Engineering,Approve,2030
+955,955,955,Thomas Stephens,Male,42,2021,Senior Professor,Data Science and Engineering,Regular,2028
+956,956,956,Crystal Oconnell,Female,60,2017,Assistant professor,Robotics and Automation,Conract,2031
+957,957,957,Julie Guzman,Female,60,2017,Assistant professor,Software Engineering,Approve,2031
+958,958,958,Elizabeth Greene,Male,48,2021,Director,Electrical Engineering,Approve,2030
+959,959,959,Carrie Rocha,Male,48,2022,Dean,Aerospace Engineering,Regular,2031
+960,960,960,Donna Mullen,Male,54,2017,Research Professor,Civil Engineering,Approve,2029
+961,961,961,John Turner,Male,60,2018,Research Professor,Data Science and Engineering,Approve,2032
+962,962,962,Chad Morris,Female,60,2018,Associate Professor,Aerospace Engineering,Conract,2032
+963,963,963,Jessica Mccarthy,Female,56,2016,Research Professor,Robotics and Automation,Approve,2029
+964,964,964,James Mcdaniel,Male,53,2017,Director,Geotechnical Engineering,Approve,2029
+965,965,965,Christine Barrett,Female,58,2016,Director,Aerospace Engineering,Approve,2030
+966,966,966,Cassandra Pearson,Male,60,2016,Assistant professor,Data Science and Engineering,Approve,2030
+967,967,967,Anne Harper,Female,39,2022,Assistant professor,Chemical Engineering,Regular,2027
+968,968,968,Christopher Wheeler,Female,55,2018,Research Professor,Electrical Engineering,Regular,2030
+969,969,969,Rebecca Garcia,Male,60,2016,Research Professor,Data Science and Engineering,Regular,2030
+970,970,970,Rhonda Anderson,Male,45,2021,Dean,Aerospace Engineering,Conract,2029
+971,971,971,Timothy Griffin,Female,42,2021,Research Professor,Electrical Engineering,Conract,2028
+972,972,972,Erika Little,Female,60,2016,Research Professor,Electrical Engineering,Approve,2030
+973,973,973,Melissa Anderson,Male,56,2018,Associate Professor,Mechanical Engineering,Regular,2031
+974,974,974,Jonathan Howell,Male,47,2022,Director,Data Science and Engineering,Conract,2030
+975,975,975,Zachary Johnson,Male,37,2021,Research Professor,Software Engineering,Approve,2026
+976,976,976,Theodore Warren,Male,55,2018,Associate Professor,Environmental Engineering,Approve,2030
+977,977,977,Susan Hawkins,Male,45,2023,Assistant professor,Environmental Engineering,Conract,2030
+978,978,978,Thomas Mcdowell,Male,53,2018,Lecturer,Mechanical Engineering,Approve,2029
+979,979,979,Debbie Cohen,Male,60,2016,Research Professor,Computer Engineering,Regular,2030
+980,980,980,Kyle Lowery,Male,55,2018,Director,Robotics and Automation,Regular,2030
+981,981,981,Donald Freeman,Male,60,2017,Associate Professor,Mechanical Engineering,Regular,2031
+982,982,982,Bryan Jimenez Jr.,Female,39,2023,Research Professor,Aerospace Engineering,Conract,2028
+983,983,983,Barbara Duran,Male,50,2022,Dean,Computer Engineering,Conract,2031
+984,984,984,Emma Knight,Female,39,2022,Dean,Robotics and Automation,Approve,2027
+985,985,985,Justin Delacruz,Male,57,2017,Associate Professor,Aerospace Engineering,Approve,2030
+986,986,986,Matthew Guzman,Female,60,2016,Assistant professor,Environmental Engineering,Regular,2030
+987,987,987,Jordan Cunningham,Male,54,2016,Senior Professor,Civil Engineering,Regular,2028
+988,988,988,Ronald Parker,Male,57,2016,Associate Professor,Electrical Engineering,Regular,2029
+989,989,989,Laura Park,Female,59,2017,Dean,Aerospace Engineering,Approve,2031
+990,990,990,Travis Haynes,Female,53,2016,Senior Professor,Environmental Engineering,Approve,2028
+991,991,991,Brenda Lane,Female,51,2018,Dean,Data Science and Engineering,Approve,2029
+992,992,992,Thomas Hill,Male,52,2016,Director,Aerospace Engineering,Approve,2028
+993,993,993,Erica Francis,Female,49,2022,Senior Professor,Civil Engineering,Approve,2031
+994,994,994,Dr. Sabrina Becker,Male,36,2021,Associate Professor,Robotics and Automation,Regular,2026
+995,995,995,Sylvia Miller,Female,57,2016,Senior Professor,Geotechnical Engineering,Regular,2029
+996,996,996,James Carroll,Female,52,2018,Director,Data Science and Engineering,Conract,2029
+997,997,997,Jessica Collins,Female,60,2016,Assistant professor,Robotics and Automation,Regular,2030
+998,998,998,Debra Glenn,Female,51,2018,Assistant professor,Aerospace Engineering,Approve,2029
+999,999,999,Danielle Davis,Male,60,2018,Director,Mechanical Engineering,Regular,2032
