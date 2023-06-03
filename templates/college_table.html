@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>COLLEGE VACANCIES</title>
     <style>
@@ -9,31 +10,305 @@
             height: 500px;
             border: black;
             border-width: 1px;
+            border-radius: 10px;
         }
-        .horizontal-scroll{
-            overflow-x: scroll; 
+        
+        .horizontal-scroll {
+            overflow-x: scroll;
             white-space: nowrap;
         }
-
+        
         table {
             border-collapse: collapse;
             width: 100%;
         }
-        th, td {
+        
+        th,
+        td {
             border: 1px solid #ddd;
             padding: 8px;
-            text-align: left;
+            text-align: center;
         }
+        
         th {
-            background-color: #f2f2f2;
+            color: white;
+            background-color: #27374d;
+        }
+        
+        .tableFixHead thead th {
+            position: sticky;
+            top: 0;
+        }
+        
+         :root {
+            --primary-text-color: #183b56;
+            --secondary-text-color: #577592;
+            --accent-color: #2294ed;
+            --accent-color-dark: #1d69a3;
+            --padding-inline-section: 20px;
+        }
+        
+        .container {
+            max-width: 1180px;
+            margin-inline: auto;
+            padding-inline: var(--padding-inline-section);
+        }
+        
+        .flex {
+            display: flex;
+            align-items: center;
+        }
+        
+        .hover-links {
+            color: var(--primary-text-color);
+        }
+        
+        .hover-links:hover {
+            color: var(--accent-color);
+            transition: 0.2s ease-out;
+        }
+        
+        .main-nav {
+            margin-top: 20px;
+            justify-content: space-between;
+        }
+        
+        .new-links {
+            flex-basis: 730px;
+        }
+        
+        .new-links ul {
+            justify-content: end;
+            gap: 40px;
+        }
+        
+        .secondary-button {
+            padding: 12px 24px;
+            border: 0.5px solid var(--secondary-text-color);
+            border-radius: 6px;
+            transition: 0.2s ease-out;
+            font-weight: 700;
+            color: black;
+        }
+        
+        .secondary-button:hover {
+            border-color: var(--accent-color);
+            color: var(--accent-color);
+        }
+        
+        .primary-button {
+            font-weight: 700;
+            background-color: var(--accent-color);
+            border-radius: 6px;
+            padding: 12px 24px;
+            color: white !important;
+            box-shadow: 0 0 2px var(--secondary-text-color);
+            transition: 0.2s ease-out;
+        }
+        
+        .primary-button:hover {
+            background-color: var(--accent-color-dark);
+        }
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+            color: #384047;
+        }
+        
+        form {
+            max-width: 300px;
+            margin: 10px auto;
+            padding: 10px 20px;
+            background: #f4f7f8;
+            border-radius: 8px;
+        }
+        
+        h1 {
+            margin: 0 0 30px 0;
+            text-align: center;
+        }
+        
+        input[type="text"],
+        input[type="password"],
+        input[type="date"],
+        input[type="datetime"],
+        input[type="email"],
+        input[type="number"],
+        input[type="search"],
+        input[type="tel"],
+        input[type="time"],
+        input[type="url"],
+        textarea,
+        select {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            font-size: 16px;
+            height: auto;
+            margin: 0;
+            outline: 0;
+            padding: 15px;
+            width: 100%;
+            background-color: #e8eeef;
+            color: #8a97a0;
+            box-shadow: 0 1px 0 rgba(0, 0, 0, 0.03) inset;
+            margin-bottom: 30px;
+        }
+        
+        input[type="radio"],
+        input[type="checkbox"] {
+            margin: 0 4px 8px 0;
+        }
+        
+        select {
+            padding: 6px;
+            height: 32px;
+            border-radius: 2px;
+        }
+        
+        button {
+            padding: 19px 39px 18px 39px;
+            color: #FFF;
+            background-color: #27374d;
+            font-size: 18px;
+            text-align: center;
+            font-style: normal;
+            border-radius: 5px;
+            width: 100%;
+            border: 1px solid #27374d;
+            border-width: 1px 1px 3px;
+            box-shadow: 0 -1px 0 rgba(255, 255, 255, 0.1) inset;
+            margin-bottom: 10px;
+        }
+        
+        .cancel-button {
+            padding: 9px 9px 9px 9px;
+            font-size: 18px;
+            background-color: rgb(201, 8, 8);
+            border: 1px solid rgb(201, 8, 8);
+        }
+        
+        fieldset {
+            margin-bottom: 30px;
+            border: none;
+        }
+        
+        legend {
+            font-size: 1.4em;
+            margin-bottom: 10px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        
+        label.light {
+            font-weight: 300;
+            display: inline;
+        }
+        
+        .number {
+            background-color: #27374d;
+            color: #fff;
+            height: 30px;
+            width: 30px;
+            display: inline-block;
+            font-size: 0.8em;
+            margin-right: 4px;
+            line-height: 30px;
+            text-align: center;
+            text-shadow: 0 1px 0 rgba(255, 255, 255, 0.2);
+            border-radius: 100%;
+        }
+        
+        button:hover {
+            background-color: #7E7E7E;
+            border: 1px solid #7E7E7E;
+        }
+        
+        @media screen and (min-width: 480px) {
+            form {
+                max-width: 480px;
+            }
         }
     </style>
+    <link rel="stylesheet" href="https://codepen.io/gymratpacks/pen/VKzBEp#0">
+    <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="../static/college/college_form_style.css">
 </head>
+
 <body>
     <h1>COLLEGE VACANCIES</h1>
     <div class="main-container">
-    <div class = "horizontal-scroll">
-        {{ table | safe }}
-    </div></div>
+        <div class="horizontal-scroll">
+            {{ table | safe }}
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="content">
+            <h2 class="logo">
+                </i>
+                <div class="blue">Post for job openings</div>
+            </h2>
+
+
+            <div class="row">
+                <div class="col-md-12">
+                    <form method="post">
+                        <h1> Enter job details </h1>
+
+                        <fieldset>
+
+                            <legend><span class="number">1</span> Basic Info</legend>
+
+                            <label for="instname">Institute name:</label>
+                            <input type="text" id="instname" name="inst_name">
+
+                            <label for="position">Position:</label>
+                            <input type="text" id="position" name="position">
+
+                            <label for="department">Department:</label>
+                            <input type="text" id="department" name="department">
+
+                            <label>Hiring Phase:</label>
+                            <input type="radio" id="phase1" value="phase1" name="phase1"><label for="under_13" class="light">Phase 1</label><br>
+                            <input type="radio" id="phase2" value="phase2" name="phase2"><label for="over_13" class="light">Phase 2</label><br>
+                            <input type="radio" id="phase3" value="phase3" name="phase3"><label for="over_13" class="light">Phase 3</label>
+                        </fieldset>
+                        <fieldset>
+
+                            <legend><span class="number">2</span>Additional Information</legend>
+
+                            <label for="desc">Description/Requirements:</label>
+                            <textarea id="desc" name="desc"></textarea>
+
+
+
+                            <label for="edulevel">Education Level:</label>
+                            <select id="edulevel" name="edulevel">
+                      <option value="mtech">M.Tech</option>
+                      <option value="phd">PHD</option>
+                      <option value="bsc">B.Sc/BCA</option>
+                      
+                  </select>
+                            <label for="salary">Offered package:</label>
+                            <input type="text" id="salary" name="salary">
+
+                            <!--<label>Interests:</label>
+                            <input type="checkbox" id="development" value="interest_development" name="user_interest"><label class="light" for="development">Development</label><br>
+                            <input type="checkbox" id="design" value="interest_design" name="user_interest"><label class="light" for="design">Design</label><br>
+                            <input type="checkbox" id="business" value="interest_business" name="user_interest"><label class="light" for="business">Business</label>
+        
+                        </fieldset> -->
+
+                            <button type="submit">POST</button>
+                            <button type="cancel" class="cancel-button">DISCARD</button>
+
+                    </form>
+                </div>
+            </div>
+
 </body>
+
 </html>
