@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>COLLEGE VACANCIES</title>
+    <style>
+        .main-container {
+            overflow-x: hidden;
+            margin: 20px;
+            height: 500px;
+            border: black;
+            border-width: 1px;
+        }
+        .horizontal-scroll{
+            overflow-x: scroll; 
+            white-space: nowrap;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>COLLEGE VACANCIES</h1>
+    <div class="main-container">
+    <div class = "horizontal-scroll">
+        {{ table | safe }}
+    </div></div>
+</body>
+</html>

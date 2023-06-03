@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up Form</title>
+    <link rel="stylesheet" href="https://codepen.io/gymratpacks/pen/VKzBEp#0">
+    <link href='https://fonts.googleapis.com/css?family=Nunito:400,300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="college_form_style.css">
+</head>
+
+<body>
+
+    <nav>
+        <!--<div class="container main-nav flex">
+            <div class="new-links">
+                <ul class="flex">
+                    <li>
+                        <a href="#" class="hover-links">Product</a></li>
+                    <li>
+                        <a href="#" class="hover-links">Customer</a></li>
+                    <li>
+                        <a href="#" class="hover-links">Pricing</a></li>
+                    <li>
+                        <a href="#" class="hover-links">Resources</a></li>
+                    <li>
+                        <a href="#" class="hover-links secondary-button">Sign in</a></li>
+                    <li>
+                        <a href="#" class="hover-links primary-button">Sign up</a></li>
+                </ul>
+            </div>
+        </div>-->
+    </nav>
+    <div class="row">
+        <div class="col-md-12">
+            <form method="post">
+                <h1> Enter job details </h1>
+
+                <fieldset>
+
+                    <legend><span class="number">1</span> Basic Info</legend>
+
+                    <label for="instname">Institute name:</label>
+                    <input type="text" id="instname" name="inst_name">
+
+                    <label for="position">Position:</label>
+                    <input type="text" id="position" name="position">
+
+                    <label for="department">Department:</label>
+                    <input type="text" id="department" name="department">
+
+                    <label>Hiring Phase:</label>
+                    <input type="radio" id="phase1" value="phase1" name="phase1"><label for="under_13" class="light">Phase 1</label><br>
+                    <input type="radio" id="phase2" value="phase2" name="phase2"><label for="over_13" class="light">Phase 2</label><br>
+                    <input type="radio" id="phase3" value="phase3" name="phase3"><label for="over_13" class="light">Phase 3</label>
+                </fieldset>
+                <fieldset>
+
+                    <legend><span class="number">2</span>Additional Information</legend>
+
+                    <label for="desc">Description/Requirements:</label>
+                    <textarea id="desc" name="desc"></textarea>
+
+
+
+                    <label for="edulevel">Education Level:</label>
+                    <select id="edulevel" name="edulevel">
+              <option value="mtech">M.Tech</option>
+              <option value="phd">PHD</option>
+              <option value="bsc">B.Sc/BCA</option>
+              
+          </select>
+                    <label for="salary">Offered package:</label>
+                    <input type="text" id="salary" name="salary">
+
+                    <!--<label>Interests:</label>
+                    <input type="checkbox" id="development" value="interest_development" name="user_interest"><label class="light" for="development">Development</label><br>
+                    <input type="checkbox" id="design" value="interest_design" name="user_interest"><label class="light" for="design">Design</label><br>
+                    <input type="checkbox" id="business" value="interest_business" name="user_interest"><label class="light" for="business">Business</label>
+
+                </fieldset> -->
+
+                    <button type="submit">POST</button>
+                    <button type="cancel" class="cancel-button">DISCARD</button>
+
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>
